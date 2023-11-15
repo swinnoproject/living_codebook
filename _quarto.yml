@@ -1,19 +1,31 @@
 project:
   type: website
+  output-dir: docs
+  preview:
+    port: 5100
 
 website:
-  title: "Living_codebook"
+  title: "Living Codebook"
+  repo-url: https://github.com/swinnoproject/living_codebook
+  repo-actions: [edit, issue]
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - codebook.qmd
+  sidebar:
+    style: docked
+    contents:
+      - section: "Innovation"
+        contents:
+          - text: Table
+            href: codebook/innovation.qmd
+          - section: Fields
+            contents: codebook/innovation/*qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
