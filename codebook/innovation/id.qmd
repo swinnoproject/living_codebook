@@ -1,0 +1,9 @@
+---
+title: Innovation identifier
+code-tools: true
+description: "The unique and stable identifier for each innovation"
+name: "id"
+label: "sinno id"
+old-name: pk_record
+excel-name: "SINNO ID"
+---

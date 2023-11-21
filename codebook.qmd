@@ -1,0 +1,11 @@
+---
+title: codebook
+listing:
+  id: tables
+  contents: codebook/*qmd
+  type: table
+---
+
+## Available tables
+:::{ #tables }
+:::

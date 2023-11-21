@@ -1,0 +1,9 @@
+---
+title: Description SV
+code-tools: true
+description: "A short description of the innovation"
+name: "desc_sv"
+label: "description swedish"
+old-name: lookup
+excel-name: "Description in Swedish"
+---
