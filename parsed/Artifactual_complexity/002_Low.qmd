@@ -1,0 +1,8 @@
+---
+title: "Low"
+label: "Low"
+code-tools: true
+description: "The innovation is a single coherent unit. Examples are a cover for a device such as a phone or a special metal alloy or other material."
+old_codes: REPLACE
+code: {code}
+---
