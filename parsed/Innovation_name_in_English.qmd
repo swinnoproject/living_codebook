@@ -1,0 +1,8 @@
+---
+title: "Innovation_name_in_English"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "Name of the innovation in English, if any and if different from the Swedish name."
+---

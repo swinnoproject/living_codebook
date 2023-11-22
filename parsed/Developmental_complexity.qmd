@@ -1,13 +1,13 @@
 ---
-title: "Artifactual_complexity"
+title: "Developmental_complexity"
 code-tools: true
 old-name: LOOKUP
 new-name: REPLACE
 table-nr: LOOKUP`
-description: "What is the complexity of the innovation as artifact (as opposed to the development of the innovation)."
+description: "Complexity of the development of the innovation."
 listing:
   id: fields
-  contents: Artifactual_complexity/*qmd
+  contents: Developmental_complexity/*qmd
   type: table
   fields: [title, label, code, description]
 ---

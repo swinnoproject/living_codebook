@@ -1,0 +1,8 @@
+---
+title: "[ No article type selected ]"
+label: "[ No article type selected ]"
+code-tools: true
+description: "The source is an article, but the atype of article has not been selected. This code should normally not occur."
+old_codes: REPLACE
+code: {code}
+---

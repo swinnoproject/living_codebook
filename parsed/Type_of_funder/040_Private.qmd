@@ -1,0 +1,8 @@
+---
+title: "Private"
+label: "Private"
+code-tools: true
+description: "Private organizations, such as private firms, foundations, associations, individuals"
+old_codes: REPLACE
+code: {code}
+---

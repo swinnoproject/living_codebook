@@ -1,0 +1,8 @@
+---
+title: "Other other factors"
+label: "Other other factors"
+code-tools: true
+description: "Other other, which means 'other' but not 2d"
+old_codes: REPLACE
+code: {code}
+---

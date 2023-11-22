@@ -1,0 +1,8 @@
+---
+title: "Year_of_commercialization"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "Commercialization year of the innovation. This is either the year as mentioned in the sources, or, if no year is mentioned, the year of the earliest article that reports that the innovation is for sale."
+---

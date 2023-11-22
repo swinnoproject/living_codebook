@@ -1,0 +1,8 @@
+---
+title: "Article - Fair"
+label: "Article - Fair"
+code-tools: true
+description: "An article about a fair ('mässa' in Swedish)."
+old_codes: REPLACE
+code: {code}
+---

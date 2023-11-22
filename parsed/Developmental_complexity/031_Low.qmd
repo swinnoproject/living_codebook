@@ -1,0 +1,8 @@
+---
+title: "Low"
+label: "Low"
+code-tools: true
+description: "One discipline is involved in the development of the innovation."
+old_codes: REPLACE
+code: {code}
+---

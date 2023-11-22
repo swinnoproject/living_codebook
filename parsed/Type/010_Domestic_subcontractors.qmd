@@ -1,0 +1,8 @@
+---
+title: "Domestic subcontractors"
+label: "Domestic subcontractors"
+code-tools: true
+description: "[ This code has no detailed description ]"
+old_codes: REPLACE
+code: {code}
+---

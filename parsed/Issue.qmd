@@ -1,0 +1,8 @@
+---
+title: "Issue"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "The journal's or annex issue that contains the article."
+---

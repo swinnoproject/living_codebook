@@ -1,0 +1,8 @@
+---
+title: "Journal_or_magazine"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "The journal or magazine that contains the article. This could be a standardized rather than a literal name."
+---

@@ -1,13 +1,13 @@
 ---
-title: "Artifactual_complexity"
+title: "Use_sectors"
 code-tools: true
 old-name: LOOKUP
 new-name: REPLACE
 table-nr: LOOKUP`
-description: "What is the complexity of the innovation as artifact (as opposed to the development of the innovation)."
+description: "User sector of the innovation according to Svensk Näringslivsindelning (SNI) 2002."
 listing:
   id: fields
-  contents: Artifactual_complexity/*qmd
+  contents: Use_sectors/*qmd
   type: table
   fields: [title, label, code, description]
 ---

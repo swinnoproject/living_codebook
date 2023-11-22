@@ -41,7 +41,7 @@ if __name__ == "__main__":
         var_path = os.path.join(root_dir, writable_field)
         with open(var_path + ".qmd", "w", encoding="utf8") as f:
             f.write("---\n")
-            f.write('Title: "{writable_field}"\n')
+            f.write(f'title: "{writable_field}"\n')
             f.write("code-tools: true\n")
             f.write("old-name: LOOKUP\n")
             f.write("new-name: REPLACE\n")

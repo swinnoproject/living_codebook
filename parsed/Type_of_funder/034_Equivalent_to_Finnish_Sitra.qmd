@@ -1,0 +1,8 @@
+---
+title: "Equivalent to Finnish Sitra"
+label: "Equivalent to Finnish Sitra"
+code-tools: true
+description: "Equivalent to Finnish Sitra. This code exists for purposes of comparison with Finland. It should however rarely occur."
+old_codes: REPLACE
+code: {code}
+---

@@ -1,13 +1,13 @@
 ---
-title: "Artifactual_complexity"
+title: "Content_type"
 code-tools: true
 old-name: LOOKUP
 new-name: REPLACE
 table-nr: LOOKUP`
-description: "What is the complexity of the innovation as artifact (as opposed to the development of the innovation)."
+description: "A characterisation of the content of the source._x000B_"
 listing:
   id: fields
-  contents: Artifactual_complexity/*qmd
+  contents: Content_type/*qmd
   type: table
   fields: [title, label, code, description]
 ---

@@ -1,0 +1,8 @@
+---
+title: "Federal Republic of Germany (i.e. West Germany before 3 October 1990)"
+label: "Federal Republic of Germany (i.e. West Germany before 3 October 1990)"
+code-tools: true
+description: "[ This code has no detailed description ]"
+old_codes: REPLACE
+code: {code}
+---

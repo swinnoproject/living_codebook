@@ -1,13 +1,13 @@
 ---
-title: "Artifactual_complexity"
+title: "Science_spin-off"
 code-tools: true
 old-name: LOOKUP
 new-name: REPLACE
 table-nr: LOOKUP`
-description: "What is the complexity of the innovation as artifact (as opposed to the development of the innovation)."
+description: "Is the company a spinoff from a university or research institute?"
 listing:
   id: fields
-  contents: Artifactual_complexity/*qmd
+  contents: Science_spin-off/*qmd
   type: table
   fields: [title, label, code, description]
 ---

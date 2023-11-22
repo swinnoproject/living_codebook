@@ -1,0 +1,8 @@
+---
+title: "Corporate_group"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "In the 'SWINNO extension' collection Name of the corporate group of the firm - as stated in the article"
+---

@@ -1,0 +1,8 @@
+---
+title: "Year_of_first_prototype"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "The year in which the first prototype was introduced"
+---

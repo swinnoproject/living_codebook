@@ -1,0 +1,8 @@
+---
+title: "German Democratic Republic (i.e. East Germany, before 3 October 1990)"
+label: "German Democratic Republic (i.e. East Germany, before 3 October 1990)"
+code-tools: true
+description: "[ This code has no detailed description ]"
+old_codes: REPLACE
+code: {code}
+---

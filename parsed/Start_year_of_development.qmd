@@ -1,0 +1,8 @@
+---
+title: "Start_year_of_development"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "In which year did the development of the innovation start?"
+---

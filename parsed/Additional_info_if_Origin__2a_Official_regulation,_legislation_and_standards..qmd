@@ -1,0 +1,8 @@
+---
+title: "Additional_info_if_Origin__2a_Official_regulation,_legislation_and_standards."
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "Additional information if Origin = Official regulation, legislation and standards."
+---

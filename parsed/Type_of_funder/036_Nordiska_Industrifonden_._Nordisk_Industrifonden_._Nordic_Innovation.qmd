@@ -1,0 +1,8 @@
+---
+title: "Nordiska Industrifonden / Nordisk Industrifonden / Nordic Innovation"
+label: "Nordiska Industrifonden / Nordisk Industrifonden / Nordic Innovation"
+code-tools: true
+description: "[ This code has no detailed description ]"
+old_codes: REPLACE
+code: {code}
+---

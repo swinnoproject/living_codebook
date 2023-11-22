@@ -1,0 +1,8 @@
+---
+title: "New to the world market"
+label: "New to the world market"
+code-tools: true
+description: "[ This code has no detailed description ]"
+old_codes: REPLACE
+code: {code}
+---

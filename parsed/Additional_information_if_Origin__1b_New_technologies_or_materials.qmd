@@ -1,0 +1,8 @@
+---
+title: "Additional_information_if_Origin__1b_New_technologies_or_materials"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "Additional information if Origin = New technologies or materials."
+---

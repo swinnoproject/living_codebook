@@ -1,0 +1,8 @@
+---
+title: "Universities_of_spin-off"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "If the company was a spin-off from a university, then what is the name of the university."
+---

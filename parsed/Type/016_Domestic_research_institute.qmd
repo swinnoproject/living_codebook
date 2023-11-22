@@ -1,0 +1,8 @@
+---
+title: "Domestic research institute"
+label: "Domestic research institute"
+code-tools: true
+description: "[ This code has no detailed description ]"
+old_codes: REPLACE
+code: {code}
+---

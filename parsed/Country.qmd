@@ -1,13 +1,13 @@
 ---
-title: "Artifactual_complexity"
+title: "Country"
 code-tools: true
 old-name: LOOKUP
 new-name: REPLACE
 table-nr: LOOKUP`
-description: "What is the complexity of the innovation as artifact (as opposed to the development of the innovation)."
+description: "In which country was the collaborating actor located during the collaboration?"
 listing:
   id: fields
-  contents: Artifactual_complexity/*qmd
+  contents: Country/*qmd
   type: table
   fields: [title, label, code, description]
 ---

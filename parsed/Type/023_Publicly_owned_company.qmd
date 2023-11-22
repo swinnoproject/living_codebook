@@ -1,0 +1,8 @@
+---
+title: "Publicly owned company"
+label: "Publicly owned company"
+code-tools: true
+description: "[ This code has no detailed description ]"
+old_codes: REPLACE
+code: {code}
+---

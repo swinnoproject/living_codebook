@@ -1,0 +1,8 @@
+---
+title: "Official regulation, legislation and standards"
+label: "Official regulation, legislation and standards"
+code-tools: true
+description: "[ This code has no detailed description ]"
+old_codes: REPLACE
+code: {code}
+---

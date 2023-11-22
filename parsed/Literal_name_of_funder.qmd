@@ -1,0 +1,8 @@
+---
+title: "Literal_name_of_funder"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "In the 'SWINNO extension' collection Name of the funder as written in the sources."
+---

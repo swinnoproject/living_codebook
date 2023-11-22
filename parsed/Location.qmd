@@ -1,0 +1,8 @@
+---
+title: "Location"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "Location of the innovating firm."
+---

@@ -1,13 +1,13 @@
 ---
-title: "Artifactual_complexity"
+title: "Public_technology_program_involved"
 code-tools: true
 old-name: LOOKUP
 new-name: REPLACE
 table-nr: LOOKUP`
-description: "What is the complexity of the innovation as artifact (as opposed to the development of the innovation)."
+description: "Has a public technology program been involved in the development of the innovation?"
 listing:
   id: fields
-  contents: Artifactual_complexity/*qmd
+  contents: Public_technology_program_involved/*qmd
   type: table
   fields: [title, label, code, description]
 ---

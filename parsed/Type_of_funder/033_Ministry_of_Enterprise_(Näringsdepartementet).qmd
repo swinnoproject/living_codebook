@@ -1,0 +1,8 @@
+---
+title: "Ministry of Enterprise (Näringsdepartementet)"
+label: "Ministry of Enterprise (Näringsdepartementet)"
+code-tools: true
+description: "[ This code has no detailed description ]"
+old_codes: REPLACE
+code: {code}
+---

@@ -1,0 +1,8 @@
+---
+title: "University from unknown country"
+label: "University from unknown country"
+code-tools: true
+description: "[ This code has no detailed description ]"
+old_codes: REPLACE
+code: {code}
+---

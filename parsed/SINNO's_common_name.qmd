@@ -1,0 +1,8 @@
+---
+title: "SINNO's_common_name"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP`
+description: "The common name of the firm or organization."
+---

@@ -1,13 +1,13 @@
 ---
-title: "Artifactual_complexity"
+title: "Novelty_from_market_perspective"
 code-tools: true
 old-name: LOOKUP
 new-name: REPLACE
 table-nr: LOOKUP`
-description: "What is the complexity of the innovation as artifact (as opposed to the development of the innovation)."
+description: "Degree of novelty from the perspective of the Swedish and the global market respectively."
 listing:
   id: fields
-  contents: Artifactual_complexity/*qmd
+  contents: Novelty_from_market_perspective/*qmd
   type: table
   fields: [title, label, code, description]
 ---

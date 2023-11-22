@@ -1,13 +1,13 @@
 ---
-title: "Artifactual_complexity"
+title: "Developed_in_collaboration_with_other_actors"
 code-tools: true
 old-name: LOOKUP
 new-name: REPLACE
 table-nr: LOOKUP`
-description: "What is the complexity of the innovation as artifact (as opposed to the development of the innovation)."
+description: "Has the development of the innovation included collaboration with others?"
 listing:
   id: fields
-  contents: Artifactual_complexity/*qmd
+  contents: Developed_in_collaboration_with_other_actors/*qmd
   type: table
   fields: [title, label, code, description]
 ---

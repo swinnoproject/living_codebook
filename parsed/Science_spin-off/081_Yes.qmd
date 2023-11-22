@@ -1,0 +1,8 @@
+---
+title: "Yes"
+label: "Yes"
+code-tools: true
+description: "Either 'Yes' or the variable remains empty"
+old_codes: REPLACE
+code: {code}
+---
