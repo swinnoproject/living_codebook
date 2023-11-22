@@ -1,0 +1,19 @@
+---
+title: Article
+code-tools: true
+description: "TABLE_DESCRIPTION"
+old-name: "FIND"
+name: article
+listing: 
+  id: fields
+  contents: article/*qmd
+  type: table
+  fields: [title, label, name, description]
+
+---
+
+# {{< meta title >}}
+
+## Fields
+:::{ #fields}
+:::

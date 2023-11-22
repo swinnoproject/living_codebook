@@ -1,0 +1,19 @@
+---
+title: Entity
+code-tools: true
+description: "TABLE_DESCRIPTION"
+old-name: "FIND"
+name: entity
+listing: 
+  id: fields
+  contents: entity/*qmd
+  type: table
+  fields: [title, label, name, description]
+
+---
+
+# {{< meta title >}}
+
+## Fields
+:::{ #fields}
+:::
