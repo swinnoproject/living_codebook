@@ -23,7 +23,8 @@ website:
             href: codebook/innovation.qmd
           - section: Fields
             contents: codebook/innovation/*qmd
-
+      - section: parsed
+        contents: parsed/*qmd
 format:
   html:
     theme: cosmo
