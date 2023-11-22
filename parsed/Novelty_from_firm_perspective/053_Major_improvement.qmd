@@ -4,5 +4,5 @@ label: "Major improvement"
 code-tools: true
 description: "Major improvement"
 old_codes: REPLACE
-code: {code}
+code: 2
 ---

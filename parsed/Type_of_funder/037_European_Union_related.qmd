@@ -4,5 +4,5 @@ label: "European Union related"
 code-tools: true
 description: "Utvecklingsfonden = EU regional funds; other"
 old_codes: REPLACE
-code: {code}
+code: 6
 ---

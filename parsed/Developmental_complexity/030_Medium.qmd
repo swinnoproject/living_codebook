@@ -4,5 +4,5 @@ label: "Medium"
 code-tools: true
 description: "Two disciplines are involved in the development of the innovation."
 old_codes: REPLACE
-code: {code}
+code: 2
 ---

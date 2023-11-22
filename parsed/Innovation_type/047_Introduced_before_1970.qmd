@@ -4,5 +4,5 @@ label: "Introduced before 1970"
 code-tools: true
 description: "This code is a remnant from SWINNO 1. It should not occur."
 old_codes: REPLACE
-code: {code}
+code: 5
 ---

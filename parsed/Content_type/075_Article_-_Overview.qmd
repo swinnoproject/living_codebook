@@ -4,5 +4,5 @@ label: "Article - Overview"
 code-tools: true
 description: "Overview articles about an industrial sector or production process or other category. These articles may mention or cover innovations. This category includes for example rankings and competitions, but Fair-reports are not included. Fair reports have their own code."
 old_codes: REPLACE
-code: {code}
+code: 2
 ---

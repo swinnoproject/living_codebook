@@ -4,5 +4,5 @@ label: "VINNOVA"
 code-tools: true
 description: "[ This code has no detailed description ]"
 old_codes: REPLACE
-code: {code}
+code: 1
 ---

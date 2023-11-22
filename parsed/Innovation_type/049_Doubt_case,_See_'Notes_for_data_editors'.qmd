@@ -4,5 +4,5 @@ label: "Doubt case, See 'Notes for data editors'"
 code-tools: true
 description: "This code is in use for data-editors. It should not occur."
 old_codes: REPLACE
-code: {code}
+code: 7
 ---

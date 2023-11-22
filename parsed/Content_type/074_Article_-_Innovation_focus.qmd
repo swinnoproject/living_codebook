@@ -4,5 +4,5 @@ label: "Article - Innovation focus"
 code-tools: true
 description: "Articles of this type focus on an innovation or one or more aspects thereof, e.g. financing, commercialization, development, etc."
 old_codes: REPLACE
-code: {code}
+code: 1
 ---

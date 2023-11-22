@@ -4,5 +4,5 @@ label: "Process innovation - for internal use"
 code-tools: true
 description: "Only process innovations for internal use are marked as process innovations. When process innovations are sold on the market, then they get code '1 - Available on the market'"
 old_codes: REPLACE
-code: {code}
+code: 3
 ---

@@ -86,5 +86,5 @@ if __name__ == "__main__":
                         val_f.write("code-tools: true\n")
                         val_f.write(f'description: "{val_desc.replace(":", "")}"\n')
                         val_f.write("old_codes: REPLACE\n")
-                        val_f.write("code: {code}\n")
+                        val_f.write(f"code: {code}\n")
                         val_f.write("---\n")

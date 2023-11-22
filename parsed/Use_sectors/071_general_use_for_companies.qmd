@@ -4,5 +4,5 @@ label: "general use for companies"
 code-tools: true
 description: "This is not an official SNI code"
 old_codes: REPLACE
-code: {code}
+code: -100
 ---

@@ -4,5 +4,5 @@ label: "general use for end-users (final consumers)"
 code-tools: true
 description: "This is not an official SNI code"
 old_codes: REPLACE
-code: {code}
+code: -101
 ---

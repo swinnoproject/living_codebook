@@ -4,5 +4,5 @@ label: "Medium"
 code-tools: true
 description: "The innovation is a single unit. Examples are pharmaceuticals, software, tools"
 old_codes: REPLACE
-code: {code}
+code: 2
 ---

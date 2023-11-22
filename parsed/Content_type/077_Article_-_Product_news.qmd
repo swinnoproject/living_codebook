@@ -4,5 +4,5 @@ label: "Article - Product news"
 code-tools: true
 description: "Article of one or a few paragraphs. It focusses exclusively on a new product. Usually, the section heading or additional titles (for example at the top of the column or page) indicate that it is product news or news."
 old_codes: REPLACE
-code: {code}
+code: 4
 ---

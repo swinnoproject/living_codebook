@@ -4,5 +4,5 @@ label: "High"
 code-tools: true
 description: "The innovations is a system consisting of multiple functional parts. Examples are communications networks, ships and factories"
 old_codes: REPLACE
-code: {code}
+code: 1
 ---
