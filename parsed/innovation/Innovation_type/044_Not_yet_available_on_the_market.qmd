@@ -1,8 +1,0 @@
----
-title: "Not yet available on the market"
-label: "Not yet available on the market"
-code-tools: true
-description: "The development is finished, but the innovation is not yet for sale for some reason"
-old_codes: REPLACE
-code: 2
----

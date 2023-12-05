@@ -1,8 +1,0 @@
----
-title: "Literal_name_of_innovating_firm"
-code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP`
-description: "Which firm brought the innovation on the market, i.e. started selling the innovation?"
----

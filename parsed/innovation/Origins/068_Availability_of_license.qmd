@@ -1,8 +1,0 @@
----
-title: "Availability of license"
-label: "Availability of license"
-code-tools: true
-description: "[ This code has no detailed description ]"
-old_codes: REPLACE
-code: 14
----

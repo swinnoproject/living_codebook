@@ -1,8 +1,0 @@
----
-title: "Channel Islands"
-label: "Channel Islands"
-code-tools: true
-description: "[ This code has no detailed description ]"
-old_codes: REPLACE
-code: ZZZ 830
----

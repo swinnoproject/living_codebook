@@ -1,8 +1,0 @@
----
-title: "Observation of a market niche"
-label: "Observation of a market niche"
-code-tools: true
-description: "[ This code has no detailed description ]"
-old_codes: REPLACE
-code: 5a
----

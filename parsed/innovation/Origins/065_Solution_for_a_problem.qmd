@@ -1,8 +1,0 @@
----
-title: "Solution for a problem"
-label: "Solution for a problem"
-code-tools: true
-description: "[ This code has no detailed description ]"
-old_codes: REPLACE
-code: 5b
----

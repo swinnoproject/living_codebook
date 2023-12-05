@@ -1,8 +1,0 @@
----
-title: "Domestic consults"
-label: "Domestic consults"
-code-tools: true
-description: "[ This code has no detailed description ]"
-old_codes: REPLACE
-code: 5
----

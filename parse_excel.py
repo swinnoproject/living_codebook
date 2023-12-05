@@ -4,10 +4,12 @@ import re
 
 
 def string_cleaner(string):
+    if type(string) != str:
+        return string
     return re.sub(
         r"\s+",
-        "",
-        re.sub(r"[:=]", " ", re.sub(r"[^\s\w]", "", string.replace("_x000B_", ""))),
+        " ",
+        re.sub(r"[:=]", " ", re.sub(r"[^\s\w]", " ", string.replace("_x000B_", " "))),
     ).strip()
 
 
@@ -37,6 +39,7 @@ if __name__ == "__main__":
             continue
         code_list = string_cleaner(code_list)
         writable_field = field.replace("=", "").replace(" ", "_").replace(":", "")
+        desc = string_cleaner(desc)
 
         var_path = os.path.join(root_dir, writable_field)
         with open(var_path + ".qmd", "w", encoding="utf8") as f:
@@ -45,7 +48,8 @@ if __name__ == "__main__":
             f.write("code-tools: true\n")
             f.write("old-name: LOOKUP\n")
             f.write("new-name: REPLACE\n")
-            f.write("table-nr: LOOKUP`\n")
+            f.write("table-nr: LOOKUP\n")
+            f.write("sort-order: 0\n")
             f.write(f'description: "{desc.replace(":", "")}"\n')
 
             if str(code_list).strip() in ("nan", "-", ""):
@@ -56,14 +60,17 @@ if __name__ == "__main__":
                 ## add tabulation
 
                 f.write("listing:\n")
-                f.write("  id: fields\n")
+                f.write("  id: Codes\n")
                 f.write(f"  contents: {writable_field}/*qmd" + "\n")
                 f.write("  type: table\n")
                 f.write("  fields: [title, label, code, description]\n")
+                f.write("  sort-ui: false\n")
+                f.write("  sort:\n")
+                f.write("    - sort-order\n")
+                f.write("    - code\n")
+                f.write("    - title\n")
                 f.write("---\n\n")
-                f.write("# {{< meta title >}}\\n\n")
-                f.write("## Fields\n\n")
-                f.write(":::{ #fields }\n")
+                f.write(":::{ #Codes }\n")
                 f.write(":::\n")
 
                 os.makedirs(var_path, exist_ok=True)
@@ -78,13 +85,15 @@ if __name__ == "__main__":
                         + value.replace(" ", "_").replace("/", ".")
                         + ".qmd",
                     )
+                    code = string_cleaner(code)
 
                     with open(val_path, "w", encoding="utf8") as val_f:
                         val_f.write("---\n")
                         val_f.write(f'title: "{value.replace(":", "")}"\n')
                         val_f.write(f'label: "{value.replace(":", "")}"\n')
                         val_f.write("code-tools: true\n")
+                        val_f.write("sort-order: 0\n")
                         val_f.write(f'description: "{val_desc.replace(":", "")}"\n')
-                        val_f.write("old_codes: REPLACE\n")
+                        val_f.write("old_codes: [REPLACE, REPLACE]\n")
                         val_f.write(f"code: {code}\n")
                         val_f.write("---\n")

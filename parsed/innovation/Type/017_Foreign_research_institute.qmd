@@ -1,8 +1,0 @@
----
-title: "Foreign research institute"
-label: "Foreign research institute"
-code-tools: true
-description: "[ This code has no detailed description ]"
-old_codes: REPLACE
-code: 15
----

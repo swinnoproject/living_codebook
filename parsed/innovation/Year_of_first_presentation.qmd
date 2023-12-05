@@ -1,8 +1,0 @@
----
-title: "Year_of_first_presentation"
-code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP`
-description: "The year that the basic idea of the innovation was presented."
----

@@ -1,8 +1,0 @@
----
-title: "Pages"
-code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP`
-description: "On which pages does the article occur?"
----

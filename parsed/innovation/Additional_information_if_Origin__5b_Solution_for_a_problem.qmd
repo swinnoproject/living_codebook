@@ -1,8 +1,0 @@
----
-title: "Additional_information_if_Origin__5b_Solution_for_a_problem"
-code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP`
-description: "Additional information if Origin = Solution for a problem."
----

@@ -1,8 +1,0 @@
----
-title: "Competitive pressure driven"
-label: "Competitive pressure driven"
-code-tools: true
-description: "Competitive pressure driven. For example, price competition, competition in performance, threat posed by rival innovations, shrinking market share or demand, rationalization of production             methods, enabling lower prices"
-old_codes: REPLACE
-code: 3
----

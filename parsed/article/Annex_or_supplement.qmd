@@ -1,8 +1,0 @@
----
-title: "Annex_or_supplement"
-code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP`
-description: "The article's annex or supplement, if any.  "
----

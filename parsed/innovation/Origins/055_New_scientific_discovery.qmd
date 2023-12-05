@@ -1,8 +1,0 @@
----
-title: "New scientific discovery"
-label: "New scientific discovery"
-code-tools: true
-description: "[ This code has no detailed description ]"
-old_codes: REPLACE
-code: 1a
----

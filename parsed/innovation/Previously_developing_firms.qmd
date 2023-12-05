@@ -1,8 +1,0 @@
----
-title: "Previously_developing_firms"
-code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP`
-description: "Name of firm previously responsible for the development of the innovation."
----

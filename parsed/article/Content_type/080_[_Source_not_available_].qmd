@@ -1,8 +1,0 @@
----
-title: "[ Source not available ]"
-label: "[ Source not available ]"
-code-tools: true
-description: "This article could not be categorized because it has no sources linked to it / there is no access to the article. This code was used for data-editing purposes. It should normally not occur."
-old_codes: REPLACE
-code: 9
----

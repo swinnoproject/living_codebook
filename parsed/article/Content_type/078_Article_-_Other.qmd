@@ -1,8 +1,0 @@
----
-title: "Article - Other"
-label: "Article - Other"
-code-tools: true
-description: "This category covers types of articles that are not covered by other codes. Or it can be used for uncommon situations. For example, when an article contains information that is used for multiple innovations but depending on the innovation one would choose a different article-type"
-old_codes: REPLACE
-code: 5
----

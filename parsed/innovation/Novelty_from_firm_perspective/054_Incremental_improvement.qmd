@@ -1,8 +1,0 @@
----
-title: "Incremental improvement"
-label: "Incremental improvement"
-code-tools: true
-description: "Incremental improvement"
-old_codes: REPLACE
-code: 3
----
