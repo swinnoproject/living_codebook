@@ -48,7 +48,6 @@ if __name__ == "__main__":
             f.write("code-tools: true\n")
             f.write("old-name: LOOKUP\n")
             f.write("new-name: REPLACE\n")
-            f.write("table-nr: LOOKUP\n")
             f.write("sort-order: 0\n")
             f.write(f'description: "{desc.replace(":", "")}"\n')
 
@@ -61,7 +60,7 @@ if __name__ == "__main__":
 
                 f.write("listing:\n")
                 f.write("  id: Codes\n")
-                f.write(f"  contents: {writable_field}/*qmd" + "\n")
+                f.write(f"  contents: {writable_field}.yaml" + "\n")
                 f.write("  type: table\n")
                 f.write("  fields: [title, label, code, description]\n")
                 f.write("  sort-ui: false\n")
@@ -73,27 +72,18 @@ if __name__ == "__main__":
                 f.write(":::{ #Codes }\n")
                 f.write(":::\n")
 
-                os.makedirs(var_path, exist_ok=True)
-                for val_idx, grouping, code, value, val_desc in values[
-                    values["Code list"] == code_list
-                ].itertuples():
-                    # print(code,'|', value,'|', val_desc)
-                    val_path = os.path.join(
-                        var_path,
-                        str(val_idx).zfill(3)
-                        + "_"
-                        + value.replace(" ", "_").replace("/", ".")
-                        + ".qmd",
-                    )
-                    code = string_cleaner(code)
+                code_yaml_path = os.path.join(var_path + ".yaml")
+                with open(code_yaml_path, "w", encoding="utf8") as y:
+                    for val_idx, grouping, code, value, val_desc in values[
+                        values["Code list"] == code_list
+                    ].itertuples():
+                        # print(code,'|', value,'|', val_desc)
+                        code = string_cleaner(code)
 
-                    with open(val_path, "w", encoding="utf8") as val_f:
-                        val_f.write("---\n")
-                        val_f.write(f'title: "{value.replace(":", "")}"\n')
-                        val_f.write(f'label: "{value.replace(":", "")}"\n')
-                        val_f.write("code-tools: true\n")
-                        val_f.write("sort-order: 0\n")
-                        val_f.write(f'description: "{val_desc.replace(":", "")}"\n')
-                        val_f.write("old_codes: [REPLACE, REPLACE]\n")
-                        val_f.write(f"code: {code}\n")
-                        val_f.write("---\n")
+                        y.write(f'\n- title: "{value.replace(":", "")}"\n')
+                        y.write(f'  label: "{value.replace(":", "")}"\n')
+                        y.write("  code-tools: true\n")
+                        y.write("  sort-order: 0\n")
+                        y.write(f'  description: "{val_desc.replace(":", "")}"\n')
+                        y.write("  old_codes: [REPLACE, REPLACE]\n")
+                        y.write(f"  code: {code}\n")
