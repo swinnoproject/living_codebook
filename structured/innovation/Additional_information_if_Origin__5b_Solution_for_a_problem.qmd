@@ -1,9 +1,8 @@
 ---
 title: "Additional_information_if_Origin__5b_Solution_for_a_problem"
 code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
-sort-order: 0
+old-name: origin__additional_info__alt_18
+new-name: ori_5b_note
+sort-order: 40
 description: "Additional information if Origin Solution for a problem"
 ---

@@ -1,9 +1,8 @@
 ---
 title: "Additional_information_if_Origin__1a_New_scientific_discovery"
 code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
-sort-order: 0
+old-name: origin__additional_info__alt_15
+new-name: ori_1a_note
+sort-order: 40
 description: "Additional information if Origin New scientific discovery"
 ---
