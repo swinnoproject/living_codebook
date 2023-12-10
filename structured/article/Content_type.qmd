@@ -1,11 +1,10 @@
 ---
 title: "Content_type"
 code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
-sort-order: 0
-description: "A characterisation of the content of the source"
+old-name: sto_fk_content_type
+name: type
+sort-order: 5
+description: "A characterisation of the source content"
 listing:
   id: Codes
   contents: Content_type.yaml

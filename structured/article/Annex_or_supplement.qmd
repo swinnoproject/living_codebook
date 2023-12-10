@@ -1,9 +1,8 @@
 ---
 title: "Annex_or_supplement"
 code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
-sort-order: 0
+old-name: sto_fk_annex
+name: annex
+sort-order: 10
 description: "The article s annex or supplement if any"
 ---

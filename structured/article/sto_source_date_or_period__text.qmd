@@ -1,0 +1,8 @@
+---
+title: "Year of issue"
+code-tools: true
+old-name: "sto_source_date_or_period__text"
+new: "year"
+sort-order: 14
+description: REPLACE
+---
