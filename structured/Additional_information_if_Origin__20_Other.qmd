@@ -1,0 +1,9 @@
+---
+title: "Additional_information_if_Origin__20_Other"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP
+sort-order: 0
+description: "Additional information if Origin Other"
+---

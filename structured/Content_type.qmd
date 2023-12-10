@@ -1,0 +1,22 @@
+---
+title: "Content_type"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP
+sort-order: 0
+description: "A characterisation of the content of the source"
+listing:
+  id: Codes
+  contents: Content_type.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

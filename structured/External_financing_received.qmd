@@ -1,0 +1,22 @@
+---
+title: "External_financing_received"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP
+sort-order: 0
+description: "Has external funding been received"
+listing:
+  id: Codes
+  contents: External_financing_received.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

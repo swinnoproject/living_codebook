@@ -1,0 +1,22 @@
+---
+title: "Public_technology_program_involved"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP
+sort-order: 0
+description: "Has a public technology program been involved in the development of the innovation"
+listing:
+  id: Codes
+  contents: Public_technology_program_involved.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

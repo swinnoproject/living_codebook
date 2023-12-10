@@ -1,0 +1,21 @@
+---
+title: "Developmental_complexity"
+code-tools: true
+old-name: developmental_complexity
+name: dev_comp
+sort-order: 10
+description: "Complexity of the development of the innovation"
+listing:
+  id: Codes
+  contents: Developmental_complexity.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

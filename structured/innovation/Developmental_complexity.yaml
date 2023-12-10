@@ -1,0 +1,24 @@
+
+- title: "High"
+  label: "High"
+  code-tools: true
+  sort-order: 0
+  description: "More than two disciplines are involved in the development of the innovation."
+  old_codes: [28, 3602]
+  code: 1
+
+- title: "Medium"
+  label: "Medium"
+  code-tools: true
+  sort-order: 0
+  description: "Two disciplines are involved in the development of the innovation."
+  old_codes: [29, 3603]
+  code: 2
+
+- title: "Low"
+  label: "Low"
+  code-tools: true
+  sort-order: 0
+  description: "One discipline is involved in the development of the innovation."
+  old_codes: [30, 3604]
+  code: 3

@@ -1,0 +1,9 @@
+---
+title: "Year,_date_or_period"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP
+sort-order: 0
+description: "A year date or other indication of time Note that this is a text field not a structured date field"
+---

@@ -1,0 +1,24 @@
+
+- title: "High"
+  label: "High"
+  code-tools: true
+  sort-order: 0
+  description: "The innovations is a system consisting of multiple functional parts. Examples are communications networks, ships and factories"
+  old_codes: [28, 3599]
+  code: 1
+
+- title: "Medium"
+  label: "Medium"
+  code-tools: true
+  sort-order: 0
+  description: "The innovation is a single unit. Examples are pharmaceuticals, software, tools"
+  old_codes: [29, 3600]
+  code: 2
+
+- title: "Low"
+  label: "Low"
+  code-tools: true
+  sort-order: 0
+  description: "The innovation is a single coherent unit. Examples are a cover for a device such as a phone or a special metal alloy or other material."
+  old_codes: [30, 3601]
+  code: 3

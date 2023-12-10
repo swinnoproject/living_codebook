@@ -1,0 +1,8 @@
+---
+title: "person_applying_for_patent"
+code-tools: true
+old-name: "person_applying_for_patent"
+new: "pat_pers_applying"
+sort-order: 23
+description: REPLACE
+---

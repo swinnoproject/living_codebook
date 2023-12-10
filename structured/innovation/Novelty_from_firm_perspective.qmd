@@ -1,0 +1,22 @@
+---
+title: "Novelty_from_firm_perspective"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP
+sort-order: 0
+description: "Degree of novelty from the firm perspective"
+listing:
+  id: Codes
+  contents: Novelty_from_firm_perspective.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

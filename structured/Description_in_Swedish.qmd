@@ -1,0 +1,9 @@
+---
+title: "Description_in_Swedish"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP
+sort-order: 0
+description: "Description of the innovation in Swedish This may include the purpose or function of the innovation and what is new about it and how it works"
+---

@@ -1,0 +1,21 @@
+---
+title: "Novelty_from_market_perspective"
+code-tools: true
+old-name: novelty__market_perspective
+new-name: novelty_mkt
+sort-order: 12
+description: "Degree of novelty from the perspective of the Swedish and the global market respectively"
+listing:
+  id: Codes
+  contents: Novelty_from_market_perspective.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::
