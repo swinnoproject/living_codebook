@@ -1,10 +1,9 @@
 ---
 title: "Developed_in_collaboration_with_other_actors"
 code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
-sort-order: 0
+old-name: development_involved_collaboration_with_others
+name: collaboratoin
+sort-order: 41
 description: "Has the development of the innovation included collaboration with others"
 listing:
   id: Codes
