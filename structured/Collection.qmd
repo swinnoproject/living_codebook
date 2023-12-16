@@ -1,9 +1,0 @@
----
-title: "Collection"
-code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
-sort-order: 0
-description: "The data collection Depending on the data collection a variable may have a different meaning coding system or may show other differences"
----

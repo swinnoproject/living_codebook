@@ -3,12 +3,12 @@ title: innovation
 old_name: innovations
 name: title
 code-tools: true
-description: "The heart os the SWINNO database"
-listinig:
+description: "The heart of the SWINNO database"
+listing:
   id: fields
-  contents: innovatoin/*qmd
-  style: table
-  fields: [title, name, descriptioni]
+  contents: innovation/*qmd
+  type: table
+  fields: [title, name, description]
   sort-ui: false
   sort:
    - sort-order

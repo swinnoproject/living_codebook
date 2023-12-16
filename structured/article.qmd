@@ -3,12 +3,12 @@ title: Article
 old_name: source_descriptions
 name: article
 code-tools: true
-description: "The heart os the SWINNO database"
-listinig:
+description: "The heart of the SWINNO database"
+listing:
   id: fields
-  contents: article/*qmd
-  style: table
-  fields: [title, name, descriptioni]
+  contents: article/*.qmd
+  type: table
+  fields: [title, name, description]
   sort-ui: false
   sort:
    - sort-order
