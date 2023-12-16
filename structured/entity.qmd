@@ -1,0 +1,20 @@
+---
+title: Entity
+old_name: other_entites
+name: entity
+code-tools: true
+description: "Companies, people and organisations"
+listing:
+  id: fields
+  contents: entity/*.qmd
+  type: table
+  fields: [title, name, description]
+  sort-ui: false
+  sort:
+   - sort-order
+   - name
+---
+
+## fields
+:::{ #fields }
+:::
