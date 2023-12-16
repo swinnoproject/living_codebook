@@ -1,0 +1,8 @@
+---
+title: "Article ID"
+code-tools: true
+old-name: "sto_fk_source_record"
+new: "id"
+sort-order: 1
+description: "Unique, stable identifier for the innovation."
+---

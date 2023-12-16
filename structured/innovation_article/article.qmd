@@ -1,0 +1,8 @@
+---
+title: "Article ID"
+code-tools: true
+old-name: "sto_fk_target_source_description"
+new: "id"
+sort-order: 2
+description: "Unique, stable identifier for the source article."
+---
