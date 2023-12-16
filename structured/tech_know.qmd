@@ -1,0 +1,22 @@
+---
+title: Technological Knowhow
+old_name: Null
+name: techknow
+code-tools: true
+description: "Technological Knowhow (ADD DEF)"
+listing:
+  id: fields
+  contents:
+  - innovation/id.qmd
+  - tech_know/*qmd
+  type: table
+  fields: [title, name, description]
+  sort-ui: false
+  sort:
+   - sort-order
+   - name
+---
+
+## fields
+:::{ #fields }
+:::
