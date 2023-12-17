@@ -1,12 +1,13 @@
 ---
-title: Entity
-old_name: other_entites
-name: entity
+title: "Entity"
 code-tools: true
-description: "Companies, people and organisations"
+old-name: other_entities
+name: entity
+sort-order: 0
+description: "Companies, organisatons and people"
 listing:
   id: fields
-  contents: entity/*.qmd
+  contents: entity/*qmd
   type: table
   fields: [title, name, description]
   sort-ui: false

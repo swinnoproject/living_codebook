@@ -1,9 +1,0 @@
----
-title: Artifactual complexity
-code-tools: true
-description: "Artifactual complexity ranging from 1 (higest) to 3 (lowest)"
-name: "art_comp"
-label: "Artifactual complexity"
-old-name: lookup
-excel-name: "Artifactual complexity"
----

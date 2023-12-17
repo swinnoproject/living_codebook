@@ -1,14 +1,14 @@
 ---
-title: Exploiter
-old_name: Null
-name: exploiter
+title: Entity
+old_name: other_entites
+name: entity
 code-tools: true
-description: "Literal name of entity exploiting the innovation"
+description: "Companies, people and organisations"
 listing:
   id: fields
   contents:
-   - innovation/id.qmd
-   - exploiter/exploiter.qmd
+   - innovaton/id.qmd
+   - entity/*.qmd
   type: table
   fields: [title, name, description]
   sort-ui: false
