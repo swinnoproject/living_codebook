@@ -1,0 +1,21 @@
+---
+title: "Use_sectors"
+code-tools: true
+old-name: Null
+name: use_sector
+sort-order: 0
+description: "User sector of the innovation according to  Svensk Näringslivsindelning SNI 2002, with a few custom codes."
+listing:
+  id: Codes
+  contents: sector.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #sni }
+:::

@@ -1,0 +1,15 @@
+- title: "general use for companies"
+  label: "general use for companies"
+  code-tools: true
+  sort-order: 0
+  description: "This is not an official SNI code"
+  old_codes: [3568]
+  code: -100
+
+- title: "general use for end-users (final consumers)"
+  label: "general use for end-users (final consumers)"
+  code-tools: true
+  sort-order: 0
+  description: "This is not an official SNI code"
+  old_codes: [3569]
+  code: -101
