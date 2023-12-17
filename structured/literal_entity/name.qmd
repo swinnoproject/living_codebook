@@ -1,0 +1,8 @@
+---
+title: "Literal Name"
+old_name: [exploiter_*, university_of_spin_off_*, reserach_institute_of_spin_off_*]
+name: name
+code-tools: true
+sort-order: 2
+description: "Literal name of an entity, as written in the article."
+---
