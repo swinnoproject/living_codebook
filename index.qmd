@@ -1,7 +1,5 @@
 ---
-title: "Living_codebook"
+title: "SWINNO Living Codebook"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to the *living codebook* accompanying the SWINNO database.

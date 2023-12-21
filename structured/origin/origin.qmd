@@ -8,7 +8,7 @@ sort-order: 0
 description: "Which factors contributed to the origin of the innovation"
 listing:
   id: Codes
-  contents: origins.yaml
+  contents: origin.yaml
   type: table
   fields: [title, label, code, description]
   sort-ui: false

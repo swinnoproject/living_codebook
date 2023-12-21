@@ -17,8 +17,42 @@ website:
   sidebar:
     style: docked
     contents:
-      - section: structured
-        contents: structured/*qmd
+      - section: Innovation
+        contents:
+        - text: Innovation Table
+          href: structured/innovation.qmd
+        - text: Exploiter
+          href: structured/exploiter.qmd
+        - text: Origin
+          href: structured/origin.qmd
+        - text: Spin-off
+          href: structured/spin_off.qmd
+        - text: Technological Knowhow
+          href: structured/tech_know.qmd
+        - text: User Sector
+          href: structured/use_sector.qmd
+        - section: Innovation Fields
+          contents: structured/innovation/*qmd
+
+      - section: Entity
+        contents:
+        - text: Entity Table
+          href: structured/entity.qmd
+          contents: structured/entity/*qmd
+        - text: Entity Linking Table
+          href: structured/innovation_entity.qmd
+
+
+      - section: Article
+        contents:
+        - text: Article Table
+          href: structured/article.qmd
+        - text: Article Linking Table
+          href: structured/innovation_article.qmd
+
+          contents: structured/article/*qmd
+
+
 format:
   html:
     theme: cosmo

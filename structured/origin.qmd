@@ -1,9 +1,9 @@
 ---
-title: innovation
-old_name: innovations
-name: title
+title: Origin
+old_name: None
+name: origin
 code-tools: true
-description: "The heart of the SWINNO database"
+description: "Innovation origin"
 listing:
   id: fields
   contents:
