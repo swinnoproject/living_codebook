@@ -1,0 +1,49 @@
+
+- title: "Article - Innovation focus"
+  label: "Article - Innovation focus"
+  sort-order: 0
+  description: "Articles of this type focus on an innovation or one or more aspects thereof, e.g. financing, commercialization, development, etc."
+  old_codes: [3586]
+  code: 1
+
+- title: "Article - Overview"
+  label: "Article - Overview"
+  sort-order: 0
+  description: "Overview articles about an industrial sector or production process or other category. These articles may mention or cover innovations. This category includes for example rankings and competitions, but Fair-reports are not included. Fair reports have their own code."
+  old_codes: [3588]
+  code: 2
+
+- title: "Article - Fair"
+  label: "Article - Fair"
+  sort-order: 0
+  description: "An article about a fair ('mässa' in Swedish)."
+  old_codes: [3589]
+  code: 3
+
+- title: "Article - Product news"
+  label: "Article - Product news"
+  sort-order: 0
+  description: "Article of one or a few paragraphs. It focusses exclusively on a new product. Usually, the section heading or additional titles (for example at the top of the column or page) indicate that it is product news or news."
+  old_codes: [3587]
+  code: 4
+
+- title: "Article - Other"
+  label: "Article - Other"
+  sort-order: 0
+  description: "This category covers types of articles that are not covered by other codes. Or it can be used for uncommon situations. For example, when an article contains information that is used for multiple innovations but depending on the innovation one would choose a different article-type"
+  old_codes: [3590]
+  code: 5
+
+- title: "No article type selected"
+  label: "[ No article type selected ]"
+  sort-order: 0
+  description: "The source is an article, but the atype of article has not been selected. This code should normally not occur."
+  old_codes: [3574]
+  code: 8
+
+- title: "Source not available"
+  label: "[ Source not available ]"
+  sort-order: 0
+  description: "This article could not be categorized because it has no sources linked to it / there is no access to the article. This code was used for data-editing purposes. It should normally not occur."
+  old_codes: [3598]
+  code: 9

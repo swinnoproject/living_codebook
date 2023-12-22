@@ -1,0 +1,21 @@
+---
+title: "Developed_in_collaboration_with_other_actors"
+code-tools: true
+old-name: development_involved_collaboration_with_others
+name: collaboratoin
+sort-order: 41
+description: "Has the development of the innovation included collaboration with others"
+listing:
+  id: Codes
+  contents: Developed_in_collaboration_with_other_actors.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

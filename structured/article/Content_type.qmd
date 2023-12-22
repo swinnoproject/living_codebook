@@ -1,0 +1,21 @@
+---
+title: "Content_type"
+code-tools: true
+old-name: sto_fk_content_type
+name: type
+sort-order: 5
+description: "A characterisation of the source content"
+listing:
+  id: Codes
+  contents: Content_type.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

@@ -1,0 +1,22 @@
+---
+title: Innovation to Article
+old_name: refs_to_source_descriptions
+name: innovation_article
+code-tools: true
+description: "Connecting table between innovations and articles"
+listing:
+  id: fields
+  contents:
+   - innovation/id.qmd
+   - article/id.qmd
+  type: table
+  fields: [title, name, description]
+  sort-ui: false
+  sort:
+   - sort-order
+   - name
+---
+
+## fields
+:::{ #fields }
+:::

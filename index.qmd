@@ -1,7 +1,31 @@
 ---
-title: "Living_codebook"
+title: "SWINNO Living Codebook"
+code-tools: true
 ---
 
-This is a Quarto website.
+Welcome to the *living codebook* accompanying the public export of the SWINNO database.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This site is an open and searchable documentation covering the structure,
+fields and different coded values of the public SWINNO database.
+
+The documentation is divided into three parts according to the three types of
+objects that are recorded into the database:
+
+ 1. [Innovation](/structured/innovation.qmd)
+ 2. [Entity](/structured/entity.qmd), people, companies and organisations.
+ 3. [Articles](/structured/article.qmd), bibliographic references to the source material
+
+In the [Innovation](/structured/innovation.qmd) section you will find all the
+recorded information pertaining directly to the innovation. For the types of
+data that can have several values linked to the same innovation, such as
+[Use Sector](/structured/use_sector.qmd), are placed in a separate table.
+
+Under the [Entity](/structured/entity.qmd) and [Articles](/structured/article.qmd)
+sections you will also find a separate table that link innovations to the
+respective entities or articles.
+
+If you find any mistakes or errors in the codebook, pleaser report them using the
+[*Report an issue*](https://github.com/swinnoproject/living_codebook/issues/new),
+alternatively edit the file directly on github through the
+[*Edit this page*](https://github.com/swinnoproject/living_codebook/edit/main/index.qmd)
+in the footer of each page.

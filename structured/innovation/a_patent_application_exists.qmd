@@ -1,0 +1,8 @@
+---
+title: "a_patent_application_exists"
+code-tools: true
+old-name: "a_patent_application_exists"
+new: "pat_applied"
+sort-order: 21
+description: REPLACE
+---

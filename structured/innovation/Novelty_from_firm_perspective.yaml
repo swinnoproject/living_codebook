@@ -1,0 +1,24 @@
+
+- title: "Totally new"
+  label: "Totally new"
+  code-tools: true
+  sort-order: 0
+  description: "Totally new"
+  old_codes: [31, 3605]
+  code: 1
+
+- title: "Major improvement"
+  label: "Major improvement"
+  code-tools: true
+  sort-order: 0
+  description: "Major improvement"
+  old_codes: [32, 3606]
+  code: 2
+
+- title: "Incremental improvement"
+  label: "Incremental improvement"
+  code-tools: true
+  sort-order: 0
+  description: "Incremental improvement"
+  old_codes: [33, 3607]
+  code: 3

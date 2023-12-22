@@ -1,0 +1,16 @@
+
+- title: "New to the Swedish market"
+  label: "New to the Swedish market"
+  code-tools: true
+  sort-order: 0
+  description: "[ This code has no detailed description ]"
+  old_codes: [34]
+  code: 1
+
+- title: "New to the world market"
+  label: "New to the world market"
+  code-tools: true
+  sort-order: 0
+  description: "[ This code has no detailed description ]"
+  old_codes: [35]
+  code: 2

@@ -1,0 +1,39 @@
+- title: "Development of components and modules"
+  label: "Development of components and modules"
+  code-tools: true
+  sort-order: 2
+  description: "Development of components and modules"
+  old_codes: [36]
+  code: 1
+
+- title: "Integration of components and modules"
+  label: "Integration of components and modules"
+  code-tools: true
+  sort-order: 0
+  description: "Integration of components and modules"
+  old_codes: [37]
+  code: 2
+
+- title: "Development of production methods"
+  label: "Development of production methods"
+  code-tools: true
+  sort-order: 0
+  description: "Development of production methods"
+  old_codes: [38]
+  code: 3
+
+- title: "Other"
+  label: "Other"
+  code-tools: true
+  sort-order: 0
+  description: "Other"
+  old_codes: [40]
+  code: 5
+
+- title: "Commercialization of service concepts"
+  label: "Commercialization of service concepts"
+  code-tools: true
+  sort-order: 0
+  description: "Commercialization of service concepts"
+  old_codes: [39]
+  code: 4

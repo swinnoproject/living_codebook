@@ -1,0 +1,21 @@
+---
+title: "Novelty_from_firm_perspective"
+code-tools: true
+old-name: novelty__firm_perspective
+new-name: novel_firm
+sort-order: 11
+description: "Degree of novelty from the firm perspective"
+listing:
+  id: Codes
+  contents: Novelty_from_firm_perspective.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

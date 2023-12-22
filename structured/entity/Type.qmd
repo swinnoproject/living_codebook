@@ -1,0 +1,22 @@
+---
+title: "Type"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP
+sort-order: 0
+description: "Type of collaborating actor"
+listing:
+  id: Codes
+  contents: Type.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

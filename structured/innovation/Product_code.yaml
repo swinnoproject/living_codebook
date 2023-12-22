@@ -1,0 +1,24 @@
+
+- title: "general use for companies"
+  label: "general use for companies"
+  code-tools: true
+  sort-order: 0
+  description: "This is not an official SNI code"
+  old_codes: [REPLACE, REPLACE]
+  code: s
+
+- title: "general use for end-users (final consumers)"
+  label: "general use for end-users (final consumers)"
+  code-tools: true
+  sort-order: 0
+  description: "This is not an official SNI code"
+  old_codes: [REPLACE, REPLACE]
+  code: -101
+
+- title: "Code could not be established"
+  label: "Code could not be established"
+  code-tools: true
+  sort-order: 0
+  description: "Code could not be established."
+  old_codes: [REPLACE, REPLACE]
+  code: Unknown

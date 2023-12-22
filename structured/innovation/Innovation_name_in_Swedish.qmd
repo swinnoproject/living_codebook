@@ -1,0 +1,8 @@
+---
+title: "Innovation_name_in_Swedish"
+code-tools: true
+old-name: innovation_name__native_language
+new-name: name_sv
+sort-order: 1
+description: "Name of the innovation if any"
+---

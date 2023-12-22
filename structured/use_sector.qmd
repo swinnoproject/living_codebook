@@ -1,0 +1,22 @@
+---
+title: Use Sector
+old_name: Null
+name: sector
+code-tools: true
+description: "Innovation to SNI-use sector table."
+listing:
+  id: fields
+  contents:
+   - innovation/id.qmd
+   - use_sector/*qmd
+  type: table
+  fields: [title, name, description]
+  sort-ui: false
+  sort:
+   - sort-order
+   - name
+---
+
+## fields
+:::{ #fields }
+:::

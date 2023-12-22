@@ -1,5 +1,17 @@
 ---
 title: "About"
+code-tools: true
 ---
 
-About this site
+This site hosts the *codebok* for the SWINNO-database, which is a database
+of swedish innovations. For more information about the SWINNO project visit
+[swedishinnovationdata.se](swedishinnovationdata.se).
+
+
+This codebook is created using *Quarto*, and the source files behind the
+structure are openly hosted on GitHub where anyone can make suggestions for
+how to improve the codebook, hence *living*.
+
+If you notice any mistakes or have suggestions for improvements, please
+report the error or suggest using the "Edit this page" or "Report an issue"
+links at the footer of every page.

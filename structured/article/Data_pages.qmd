@@ -1,0 +1,9 @@
+---
+title: "Data_pages"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP
+sort-order: 0
+description: "If the number of pages of the source is bigger than 10 this field may indicate on which pages the data for this innovation can be found"
+---

@@ -1,0 +1,8 @@
+---
+title: "Additional_information_if_Origin__1a_New_scientific_discovery"
+code-tools: true
+old-name: origin__additional_info__alt_15
+new-name: ori_1a_note
+sort-order: 40
+description: "Additional information if Origin New scientific discovery"
+---

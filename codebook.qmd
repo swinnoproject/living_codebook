@@ -2,7 +2,7 @@
 title: codebook
 listing:
   id: tables
-  contents: codebook/*qmd
+  contents: structured/*qmd
   type: table
 ---
 

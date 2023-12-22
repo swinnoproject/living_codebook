@@ -1,0 +1,21 @@
+---
+title: "Artifactual_complexity"
+code-tools: true
+old-name: artifactual_complexity
+name: art_comp
+sort-order: 9
+description: "What is the complexity of the innovation as artifact as opposed to the development of the innovation"
+listing:
+  id: Codes
+  contents: Artifactual_complexity.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

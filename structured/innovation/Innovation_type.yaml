@@ -1,0 +1,56 @@
+
+- title: "Available on the market (Process or product)"
+  label: "Available on the market (Process or product)"
+  code-tools: true
+  sort-order: 0
+  description: "[ This code has no detailed description ]"
+  old_codes: [23]
+  code: 1
+
+- title: "Not yet available on the market"
+  label: "Not yet available on the market"
+  code-tools: true
+  sort-order: 0
+  description: "The development is finished, but the innovation is not yet for sale for some reason"
+  old_codes: [24]
+  code: 2
+
+- title: "Process innovation - for internal use"
+  label: "Process innovation - for internal use"
+  code-tools: true
+  sort-order: 0
+  description: "Only process innovations for internal use are marked as process innovations. When process innovations are sold on the market, then they get code '1 - Available on the market'"
+  old_codes: [25]
+  code: 3
+
+- title: "Development not yet finished"
+  label: "Development not yet finished"
+  code-tools: true
+  sort-order: 0
+  description: "[ This code has no detailed description ]"
+  old_codes: [26]
+  code: 4
+
+- title: "Introduced before 1970"
+  label: "Introduced before 1970"
+  code-tools: true
+  sort-order: 0
+  description: "This code is a remnant from SWINNO 1. It should not occur."
+  old_codes: [27]
+  code: 5
+
+- title: "Other, See 'Notes for data users'"
+  label: "Other, See 'Notes for data users'"
+  code-tools: true
+  sort-order: 0
+  description: "[ This code has no detailed description ]"
+  old_codes: [3572]
+  code: 6
+
+- title: "Doubt case, See 'Notes for data editors'"
+  label: "Doubt case, See 'Notes for data editors'"
+  code-tools: true
+  sort-order: 0
+  description: "This code is in use for data-editors. It should not occur."
+  old_codes: [15181]
+  code: 7

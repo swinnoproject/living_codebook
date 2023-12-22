@@ -1,0 +1,8 @@
+---
+title: "Location"
+code-tools: true
+old-name: location
+new-name: loc
+sort-order: 100
+description: "Location of the innovating firm"
+---

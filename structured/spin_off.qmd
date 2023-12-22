@@ -1,0 +1,23 @@
+---
+title: Spinoff
+old_name: Null
+name: spinoff
+code-tools: true
+description: "Linking innovatons to names of entities of which the innovation spunoff"
+listing:
+  id: fields
+  contents:
+   - innovation/id.qmd
+   - literal_entity/name.qmd
+   - literal_entity/spinoff.qmd
+  type: table
+  fields: [title, name, description]
+  sort-ui: false
+  sort:
+   - sort-order
+   - name
+---
+
+## fields
+:::{ #fields }
+:::

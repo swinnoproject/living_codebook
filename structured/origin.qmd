@@ -1,0 +1,22 @@
+---
+title: Origin
+old_name: None
+name: origin
+code-tools: true
+description: "Innovation origin"
+listing:
+  id: fields
+  contents:
+   - innovation/id.qmd
+   - origin/*qmd
+  type: table
+  fields: [title, name, description]
+  sort-ui: false
+  sort:
+   - sort-order
+   - name
+---
+
+## fields
+:::{ #fields }
+:::

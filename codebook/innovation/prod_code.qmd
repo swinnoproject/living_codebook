@@ -1,9 +1,0 @@
----
-title: Product code
-code-tools: true
-description: "The SNI-2002 code that describes the innovation"
-name: "prod_code"
-label: "Product code"
-old-name: lookup
-excel-name: "Product code"
----

@@ -1,0 +1,8 @@
+---
+title: "Description_in_Swedish"
+code-tools: true
+old-name: innovation_description__native_language
+new-name: desc_sv
+sort-order: 3
+description: "Description of the innovation in Swedish This may include the purpose or function of the innovation and what is new about it and how it works"
+---

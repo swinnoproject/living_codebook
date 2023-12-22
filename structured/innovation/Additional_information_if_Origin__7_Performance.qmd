@@ -1,0 +1,8 @@
+---
+title: "Additional_information_if_Origin__7_Performance"
+code-tools: true
+old-name: origin__additional_info__alt_7
+name: ori_7_note
+sort-order: 40
+description: "Additional information if Origin Performance"
+---

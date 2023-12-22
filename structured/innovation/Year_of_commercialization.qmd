@@ -1,0 +1,8 @@
+---
+title: "Year_of_commercialization"
+code-tools: true
+old-name: year_of_commercialization
+new-name: year
+sort-order: 4
+description: "Commercialization year of the innovation This is either the year as mentioned in the sources or if no year is mentioned the year of the earliest article that reports that the innovation is for sale"
+---

@@ -1,0 +1,22 @@
+---
+title: Innovation to Entity
+old_name: refs_to_other_entities
+name: innovation_entity
+code-tools: true
+description: "Companies, people and organisations"
+listing:
+  id: fields
+  contents:
+   - innovaton/id.qmd
+   - entity/*.qmd
+  type: table
+  fields: [title, name, description]
+  sort-ui: false
+  sort:
+   - sort-order
+   - name
+---
+
+## fields
+:::{ #fields }
+:::

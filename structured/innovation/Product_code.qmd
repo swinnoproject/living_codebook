@@ -1,0 +1,21 @@
+---
+title: "Product_code"
+code-tools: true
+old-name: product_code
+name: prod_code
+sort-order: 8
+description: "Product code of the innovation according to Svensk Näringslivsindelning SNI 2002 In principle a five digit code is entered where possible"
+listing:
+  id: Codes
+  contents: Product_code.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

@@ -1,0 +1,22 @@
+---
+title: "Science_spin-off"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP
+sort-order: 0
+description: "Is the company a spinoff from a university or research institute"
+listing:
+  id: Codes
+  contents: Science_spin-off.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

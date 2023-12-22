@@ -1,0 +1,8 @@
+---
+title: "patent_granted_by_other_office"
+code-tools: true
+old-name: "patent_granted_by_other_office"
+new: "pat_other"
+sort-order: 30
+description: REPLACE
+---

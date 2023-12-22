@@ -1,0 +1,22 @@
+---
+title: "Country"
+code-tools: true
+old-name: LOOKUP
+new-name: REPLACE
+table-nr: LOOKUP
+sort-order: 0
+description: "In which country was the collaborating actor located during the collaboration. ISO 3166-1 alpha-3 codes with amendment."
+listing:
+  id: Codes
+  contents: Country.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::
