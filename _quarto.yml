@@ -5,13 +5,11 @@ project:
     port: 5100
 
 website:
-  title: "Living Codebook"
+  title: "SWINNO Codebook"
   repo-url: https://github.com/swinnoproject/living_codebook
   repo-actions: [edit, issue]
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    right:
       - about.qmd
       - codebook.qmd
   sidebar:
@@ -52,10 +50,27 @@ website:
           href: structured/innovation_article.qmd
         - section: Article Fields
           contents: structured/article/*qmd
+  page-footer:
+    background: "#161324"
+    left: |
+      Copyright &copy;  2023 [SWINNO Project](https://www.swedishinnovationdata.se)
+    # center:
+    #     - href: https://github.com/swinnoproject
+    #       icon: github
+    #       aria-label: GitHub
+    center: |
+      *Site is under construction, v1.0 will be released January 2024*
+
+    right: |
+      [Terms and Conditions](/tscs.qmd)
+
 
 
 format:
   html:
-    theme: cosmo
+    theme: [lux, bw.scss, archivo.scss]
     css: styles.css
     toc: true
+    grid:
+      body-width: 750px
+    margin-width: 250
