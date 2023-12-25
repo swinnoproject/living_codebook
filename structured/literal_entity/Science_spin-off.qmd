@@ -2,7 +2,7 @@
 title: "Science_spin-off"
 code-tools: true
 old-name: LOOKUP
-name: REPLACE
+name: REPLACE_sience_spin
 table-nr: LOOKUP
 sort-order: 0
 description: "Is the company a spinoff from a university or research institute"

@@ -4,7 +4,7 @@ code-tools: true
 old-name: Null
 name: use_sector
 sort-order: 2
-description: REPLACE
+description: REPLACE_Technical_knowhow
 listing:
   id: Codes
   contents: tech_know.yaml

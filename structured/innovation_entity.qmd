@@ -8,10 +8,10 @@ listing:
   id: fields
   contents:
    - innovaton/id.qmd
-   - entity/*.qmd
+   - entity/id.qmd
   type: table
   fields: [title, name, description]
-  sort-ui: false
+  sort-ui: falsef
   sort:
    - sort-order
    - name
