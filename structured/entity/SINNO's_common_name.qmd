@@ -3,7 +3,6 @@ title: "SINNO's_common_name"
 code-tools: true
 old-name: LOOKUP
 name: REPLACE_sinno_common_name
-table-nr: LOOKUP
 sort-order: 0
 description: "The common name of the firm or organization"
 ---

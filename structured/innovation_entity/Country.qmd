@@ -1,9 +1,8 @@
 ---
 title: "Country"
 code-tools: true
-old-name: LOOKUP
+old-name: sto_fk_country_code
 name: country
-table-nr: LOOKUP
 sort-order: 0
 description: "In which country was the collaborating actor located during the collaboration. ISO 3166-1 alpha-3 codes with amendment."
 listing:

@@ -1,9 +1,8 @@
 ---
 title: "Journal_or_magazine"
 code-tools: true
-old-name: LOOKUP
-name: REPLACE_journal_magazine
-table-nr: LOOKUP
+old-name: sto_fk_parent_source
+name: journal_magazine
 sort-order: 0
 description: "The journal or magazine that contains the article This could be a standardized rather than a literal name"
 ---
