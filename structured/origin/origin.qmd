@@ -2,7 +2,7 @@
 title: "Origins"
 code-tools: true
 old-name: LOOKUP
-new-name: REPLACE
+name: origin
 table-nr: LOOKUP
 sort-order: 0
 description: "Which factors contributed to the origin of the innovation"

@@ -1,6 +1,6 @@
 ---
 title: Innovation to Article
-old_name: refs_to_source_descriptions
+old-name: refs_to_source_descriptions
 name: innovation_article
 code-tools: true
 description: "Connecting table between innovations and articles"

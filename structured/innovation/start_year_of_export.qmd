@@ -2,7 +2,7 @@
 title: "start_year_of_export"
 code-tools: true
 old-name: "start_year_of_export"
-new: "yr_export"
+name: "yr_export"
 sort-order: 32
 description: REPLACE
 ---

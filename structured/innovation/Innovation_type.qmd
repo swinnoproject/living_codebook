@@ -1,8 +1,8 @@
 ---
 title: "Innovation_type"
 code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
+old-name: innovation_type
+name: type
 table-nr: LOOKUP
 sort-order: 0
 description: "Status of the innovation"

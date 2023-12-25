@@ -2,7 +2,7 @@
 title: "Firm_founded_for_development_or_commercialization"
 code-tools: true
 old-name: LOOKUP
-new-name: REPLACE
+name: firm_launched_development
 table-nr: LOOKUP
 sort-order: 0
 description: "Was the firm founded to develop or commercialize the innovation"

@@ -43,7 +43,7 @@ def generate_file_content(line, idx=0):
 title: {old}
 code-tools: true
 old-name: {old}
-new: {new}
+name {new}
 sort-order: {idx}
 description: REPLACE
 ---

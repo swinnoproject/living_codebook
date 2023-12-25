@@ -1,6 +1,6 @@
 ---
 title: Use Sector
-old_name: Null
+old-name: Null
 name: sector
 code-tools: true
 description: "Innovation to SNI-use sector table."

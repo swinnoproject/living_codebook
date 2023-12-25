@@ -1,6 +1,6 @@
 ---
 title: "Literal Name"
-old_name: [exploiter_*, university_of_spin_off_*, reserach_institute_of_spin_off_*]
+old-name: [exploiter_*, university_of_spin_off_*, reserach_institute_of_spin_off_*]
 name: name
 code-tools: true
 sort-order: 2

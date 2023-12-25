@@ -1,6 +1,6 @@
 ---
 title: Article
-old_name: source_descriptions
+old-name: source_descriptions
 name: article
 code-tools: true
 description: "The heart of the SWINNO database"

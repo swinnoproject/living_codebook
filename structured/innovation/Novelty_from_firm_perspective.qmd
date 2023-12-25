@@ -2,7 +2,7 @@
 title: "Novelty_from_firm_perspective"
 code-tools: true
 old-name: novelty__firm_perspective
-new-name: novel_firm
+name: novel_firm
 sort-order: 11
 description: "Degree of novelty from the firm perspective"
 listing:

@@ -1,6 +1,6 @@
 ---
 title: Origin
-old_name: None
+old-name: None
 name: origin
 code-tools: true
 description: "Innovation origin"

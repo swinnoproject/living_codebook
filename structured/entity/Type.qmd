@@ -2,7 +2,7 @@
 title: "Type"
 code-tools: true
 old-name: LOOKUP
-new-name: REPLACE
+name: REPLACE
 table-nr: LOOKUP
 sort-order: 0
 description: "Type of collaborating actor"

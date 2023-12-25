@@ -2,7 +2,7 @@
 title: "patent_granted_by_USPTO"
 code-tools: true
 old-name: "patent_granted_by_USPTO"
-new: "pat_uspto"
+name: "pat_uspto"
 sort-order: 28
 description: REPLACE
 ---

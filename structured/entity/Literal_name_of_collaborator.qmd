@@ -2,7 +2,7 @@
 title: "Literal_name_of_collaborator"
 code-tools: true
 old-name: LOOKUP
-new-name: REPLACE
+name: fund_lit_name
 table-nr: LOOKUP
 sort-order: 0
 description: "In the SWINNO extension collection Name of the collaborating actor as written in the sources"

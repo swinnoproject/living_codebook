@@ -1,6 +1,6 @@
 ---
 title: Innovation to Entity
-old_name: refs_to_other_entities
+old-name: refs_to_other_entities
 name: innovation_entity
 code-tools: true
 description: "Companies, people and organisations"

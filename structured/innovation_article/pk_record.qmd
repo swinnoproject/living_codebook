@@ -2,7 +2,7 @@
 title: "Id"
 code-tools: true
 old-name: "pk_record"
-new: "id"
+name: "id"
 sort-order: 0
 description: "Unique, stable identifier for the link between innovation and article."
 ---

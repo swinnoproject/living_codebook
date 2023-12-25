@@ -1,6 +1,6 @@
 ---
 title: Exploiter
-old_name: exploiter_*
+old-name: exploiter_*
 name: name
 code-tools: true
 sort-order: 2

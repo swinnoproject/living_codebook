@@ -2,7 +2,7 @@
 title: "Universities_of_spin-off"
 code-tools: true
 old-name: LOOKUP
-new-name: REPLACE
+name: REPLACE_uni_spin
 table-nr: LOOKUP
 sort-order: 0
 description: "If the company was a spin off from a university then what is the name of the university"

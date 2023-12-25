@@ -2,7 +2,7 @@
 title: "Innovation_name_in_English"
 code-tools: true
 old-name: innovation_name__english
-new-name: name_en
+name: name_en
 sort-order: 2
 description: "Name of the innovation in English if any and if different from the Swedish name"
 ---

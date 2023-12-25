@@ -2,7 +2,7 @@
 title: "Year_of_first_prototype"
 code-tools: true
 old-name: year_of_first_prototype
-new-name: year_proto
+name: year_proto
 sort-order: 7
 description: "The year in which the first prototype was introduced"
 ---

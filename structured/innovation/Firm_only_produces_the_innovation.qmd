@@ -2,7 +2,7 @@
 title: "Firm_only_produces_the_innovation"
 code-tools: true
 old-name: LOOKUP
-new-name: REPLACE
+name: prod_only
 table-nr: LOOKUP
 sort-order: 0
 description: "If the firm recorded as Innovating firm produces the innovation but has not developed it this variable has the value 1"
