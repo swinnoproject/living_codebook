@@ -1,8 +1,0 @@
----
-title: Exploiter
-old-name: exploiter_*
-name: name
-code-tools: true
-sort-order: 2
-description: "Literal name of entity exploiting the innovation"
----

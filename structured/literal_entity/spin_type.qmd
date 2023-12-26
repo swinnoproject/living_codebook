@@ -1,0 +1,21 @@
+---
+title: "Spinoff"
+code-tools: true
+old-name: [research_institute_of_spin_off_*", "university_of_spin_off_*"]
+name: spinoff
+sort-order: 0
+description: "The university or research institute that that the innovation spun off from"
+listing:
+  id: Codes
+  contents: spin_type.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

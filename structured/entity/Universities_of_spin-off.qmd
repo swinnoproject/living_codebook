@@ -1,9 +1,0 @@
----
-title: "Universities_of_spin-off"
-code-tools: true
-old-name: university_of_spin_off_*
-name: None
-sort-order: 0
-description: "If the company was a spin off from a university then what is the name of the university"
-#todo: merge with reserach spinoff
----

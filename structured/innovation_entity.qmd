@@ -11,7 +11,7 @@ listing:
    - entity/id.qmd
   type: table
   fields: [title, name, description]
-  sort-ui: falsef
+  sort-ui: false
   sort:
    - sort-order
    - name

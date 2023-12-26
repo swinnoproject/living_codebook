@@ -6,9 +6,6 @@ name: "id"
 innovation_article:
   name: innovation_id
   old-name: sto_fk_source_record
-innovation_article:
-  name: innovation_id
-  old-name: sto_fk_source_record
 sector:
   name: innovation_id
   old-name: pk_record

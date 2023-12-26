@@ -24,7 +24,7 @@ website:
         - text: Origin
           href: structured/origin.qmd
         - text: Spin-off
-          href: structured/spin_off.qmd
+          href: structured/spinoff.qmd
         - text: Technological Knowhow
           href: structured/tech_know.qmd
         - text: User Sector

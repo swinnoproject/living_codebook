@@ -9,6 +9,7 @@ listing:
   contents:
    - innovation/id.qmd
    - literal_entity/name.qmd
+   - literal_entity/spin_type.qmd
   type: table
   fields: [title, name, description]
   sort-ui: false
