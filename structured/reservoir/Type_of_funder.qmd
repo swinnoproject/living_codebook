@@ -6,7 +6,7 @@ name: REPLACE_funder_type
 sort-order: 0
 description: "What is the type of organization at the time of the financing"
 listing:
-  id: Codes
+  id: codes
   contents: Type_of_funder.yaml
   type: table
   fields: [title, label, code, description]

@@ -6,7 +6,7 @@ name: used_pub_prog
 sort-order: 52
 description: "Has a public technology program been involved in the development of the innovation"
 listing:
-  id: Codes
+  id: codes
   contents: Public_technology_program_involved.yaml
   type: table
   fields: [title, label, code, description]

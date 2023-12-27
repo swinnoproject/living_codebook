@@ -6,7 +6,7 @@ name: spinoff
 sort-order: 0
 description: "The university or research institute that that the innovation spun off from"
 listing:
-  id: Codes
+  id: codes
   contents: spin_type.yaml
   type: table
   fields: [title, label, code, description]

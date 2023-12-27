@@ -6,7 +6,7 @@ name: science_spin
 sort-order: 0
 description: "Is the company a spinoff from a university or research institute"
 listing:
-  id: Codes
+  id: codes
   contents: Science_spin-off.yaml
   type: table
   fields: [title, label, code, description]

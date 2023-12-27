@@ -6,7 +6,7 @@ name: firm_launched_development
 sort-order: 0
 description: "Was the firm founded to develop or commercialize the innovation"
 listing:
-  id: Codes
+  id: codes
   contents: Firm_founded_for_development_or_commercialization.yaml
   type: table
   fields: [title, label, code, description]

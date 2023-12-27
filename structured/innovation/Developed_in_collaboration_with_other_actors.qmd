@@ -6,7 +6,7 @@ name: collaboratoin
 sort-order: 41
 description: "Has the development of the innovation included collaboration with others"
 listing:
-  id: Codes
+  id: codes
   contents: Developed_in_collaboration_with_other_actors.yaml
   type: table
   fields: [title, label, code, description]

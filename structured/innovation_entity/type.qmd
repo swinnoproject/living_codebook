@@ -6,7 +6,7 @@ name: type
 sort-order: 2
 description: "The type of relationship between the innovaiton and entity"
 listing:
-  id: Codes
+  id: codes
   contents: type.yaml
   type: table
   fields: [title, label, code, description]

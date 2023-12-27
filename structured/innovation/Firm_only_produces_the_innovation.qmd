@@ -6,7 +6,7 @@ name: prod_only
 sort-order: 0
 description: "If the firm recorded as Innovating firm produces the innovation but has not developed it this variable has the value 1"
 listing:
-  id: Codes
+  id: codes
   contents: Firm_only_produces_the_innovation.yaml
   type: table
   fields: [title, label, code, description]

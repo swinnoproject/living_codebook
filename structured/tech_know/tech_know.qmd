@@ -6,7 +6,7 @@ name: use_sector
 sort-order: 2
 description: REPLACE_Technical_knowhow
 listing:
-  id: Codes
+  id: codes
   contents: tech_know.yaml
   type: table
   fields: [title, label, code, description]
