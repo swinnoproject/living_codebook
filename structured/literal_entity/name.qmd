@@ -2,6 +2,9 @@
 title: "Literal Name"
 old-name: [exploiter_*, university_of_spin_off_*, reserach_institute_of_spin_off_*]
 name: name
+spinoff:
+  name: name
+  old-name: "*_of_spin_off_*"
 code-tools: true
 sort-order: 2
 description: "Literal name of an entity, as written in the article."
