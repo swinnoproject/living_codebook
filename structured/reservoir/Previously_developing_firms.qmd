@@ -1,0 +1,8 @@
+---
+title: "Previously_developing_firms"
+code-tools: true
+old-name: LOOKUP
+name: REPLACE_prev_dev
+sort-order: 0
+description: "Name of firm previously responsible for the development of the innovation"
+---
