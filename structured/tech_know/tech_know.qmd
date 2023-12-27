@@ -1,8 +1,8 @@
 ---
-title: "Use_sectors"
+title: "Technical Knowhow"
 code-tools: true
-old-name: Null
-name: use_sector
+old-name: technical_know_how_*
+name: techknow
 sort-order: 2
 description: REPLACE_Technical_knowhow
 listing:
