@@ -5,17 +5,4 @@ old-name: external_financing_received
 name: ext_financed
 sort-order: 55
 description: "Has external funding been received"
-listing:
-  id: codes
-  contents: External_financing_received.yaml
-  type: table
-  fields: [title, label, code, description]
-  sort-ui: false
-  sort:
-    - sort-order
-    - code
-    - title
 ---
-
-:::{ #Codes }
-:::
