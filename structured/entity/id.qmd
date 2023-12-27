@@ -1,8 +1,11 @@
 ---
-title: "Article ID"
+title: "Entity ID"
 code-tools: true
 old-name: "pk_record"
-name: "id"
+name: "entity_id"
+entity:
+  name: id
+  old-name: pk_record
 innovation_entity:
   name: entity_id
   old-name: sto_fk_target_other_entity

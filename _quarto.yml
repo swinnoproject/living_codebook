@@ -36,7 +36,7 @@ website:
         contents:
         - text: Entity Table
           href: structured/entity.qmd
-        - text: Entity Linking Table
+        - text: Innovation to Entity Table
           href: structured/innovation_entity.qmd
         - section: Entity Fields
           contents: structured/entity/*qmd
@@ -46,7 +46,7 @@ website:
         contents:
         - text: Article Table
           href: structured/article.qmd
-        - text: Article Linking Table
+        - text: Innovation to Article Table
           href: structured/innovation_article.qmd
         - section: Article Fields
           contents: structured/article/*qmd

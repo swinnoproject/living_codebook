@@ -7,7 +7,8 @@ description: "Companies, people and organisations"
 listing:
   id: fields
   contents:
-   - innovaton/id.qmd
+   - innovation/id.qmd
+   - innovation_entity/type.qmd
    - entity/id.qmd
   type: table
   fields: [title, name, description]
