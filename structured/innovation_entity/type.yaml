@@ -1,0 +1,41 @@
+- title: "Innovating Firm"
+  label: "Innovating Firm"
+  sort-order: 0
+  description: "The firm that brought the innovation to market"
+  old_codes: [1]
+  code: 1
+
+- title: "Contact Person"
+  label: "Contact Person"
+  sort-order: 1
+  description: "A person that has been cited to talk about the innovation in the source articles."
+  old_codes: [2]
+  code: 2
+
+- title: "Inventor"
+  label: "Inventor"
+  sort-order: 2
+  description: "One of the inventors of the innovation."
+  old_codes: [4]
+  code: 4
+
+- title: "Previously developing firm"
+  label: "Previously developing firm"
+  sort-order: 3
+  description: "A firm that has developed the firm prior to the innovating firm."
+  old_codes: [6]
+  code: 6
+
+- title: "Collaborator"
+  label: "Collaborator"
+  sort-order: 4
+  description: "A firm that collaborated in the development of the innovation."
+  old_codes: [9]
+  code: 9
+
+- title: "Funder"
+  label: "Funder"
+  sort-order: 5
+  description: "An organisation that has funded part of the innovations development."
+  old_codes: [11]
+  code: 11

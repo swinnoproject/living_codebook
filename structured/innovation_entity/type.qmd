@@ -1,0 +1,21 @@
+---
+title: "Relationship type"
+code-tools: true
+old-name: rsto_rstoes_number_1
+name: type
+sort-order: 2
+description: "The type of relationship between the innovaiton and entity"
+listing:
+  id: Codes
+  contents: type.yaml
+  type: table
+  fields: [title, label, code, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::
