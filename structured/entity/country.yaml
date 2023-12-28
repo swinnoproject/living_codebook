@@ -1,0 +1,31 @@
+- title: "Federal Republic of Germany"
+  label: "Federal Republic of Germany"
+  code-tools: true
+  sort-order: 0
+  description: "Federal Republic of Germany (i.e. West Germany before 3 October 1990)"
+  old_codes: [3570]
+  code: FRG
+
+- title: "German Democratic Republic"
+  label: "German Democratic Republic"
+  code-tools: true
+  sort-order: 0
+  description: "German Democratic Republic (i.e. East Germany, before 3 October 1990)"
+  old_codes: [3608]
+  code: DDR
+
+- title: "Channel Islands"
+  label: "Channel Islands"
+  code-tools: true
+  sort-order: 0
+  description: "[ This code has no detailed description ]"
+  old_codes: [128]
+  code: ChannelIsland
+
+- title: "Sark"
+  label: "Sark"
+  code-tools: true
+  sort-order: 0
+  description: "[ This code has no detailed description ]"
+  old_codes: [269]
+  code: Sark

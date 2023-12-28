@@ -7,7 +7,7 @@ sort-order: 0
 description: "In which country was the collaborating actor located during the collaboration. ISO 3166-1 alpha-3 codes with amendment."
 listing:
   id: codes
-  contents: Country.yaml
+  contents: country.yaml
   type: table
   fields: [title, label, code, description]
   sort-ui: false
