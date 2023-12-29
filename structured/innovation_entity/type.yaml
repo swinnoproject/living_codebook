@@ -39,10 +39,3 @@
   description: "An organisation that has funded part of the innovations development."
   old_codes: [11]
   code: 11
-
-
-- title: "semipublic"
-  label: "semipublic"
-  sort-order: 5
-  old_codes: [3668]
-  code: 3668
