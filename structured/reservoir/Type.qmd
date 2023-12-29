@@ -2,12 +2,11 @@
 title: "Type"
 code-tools: true
 old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
+name: REPLACE_collaborator_type
 sort-order: 0
 description: "Type of collaborating actor"
 listing:
-  id: Codes
+  id: codes
   contents: Type.yaml
   type: table
   fields: [title, label, code, description]

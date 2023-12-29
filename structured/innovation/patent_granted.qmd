@@ -2,7 +2,7 @@
 title: "patent_granted"
 code-tools: true
 old-name: "patent_granted"
-new: "pat_granted"
+name: "pat_granted"
 sort-order: 25
 description: REPLACE
 ---

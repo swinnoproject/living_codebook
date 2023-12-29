@@ -1,13 +1,12 @@
 ---
 title: "Science_spin-off"
 code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
+old-name: science_spin_off
+name: science_spin
 sort-order: 0
 description: "Is the company a spinoff from a university or research institute"
 listing:
-  id: Codes
+  id: codes
   contents: Science_spin-off.yaml
   type: table
   fields: [title, label, code, description]

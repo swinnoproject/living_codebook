@@ -1,8 +1,32 @@
 ---
-title: "SINNO_ID"
+title: "Innovation ID"
 code-tools: true
 old-name: pk_record
-new-name: id
+name: "innovation_id"
+innovation:
+  name: id
+  old-name: pk_record
+innovation_article:
+  name: innovation_id
+  old-name: sto_fk_source_record
+sector:
+  name: innovation_id
+  old-name: pk_record
+tech_know:
+  name: innovation_id
+  old-name: pk_record
+origin:
+  name: innovation_id
+  old-name: pk_record
+innovation_entity:
+  name: innovation_id
+  old-name: sto_fk_source_record
+spin_off:
+  name: innovation_id
+  old-name: pk_record
+exploiter:
+  name: innovation_id
+  old-name: pk_record
 table-nr: 1
 sort-order: 0
 description: "The SINNO ID uniquely identifies an item in the database so even between collections there are no doubles The ID consists of a follow number plus a three digit extension that indicates what kind of thing it is"

@@ -1,8 +1,0 @@
-
-- title: "Yes"
-  label: "Yes"
-  code-tools: true
-  sort-order: 0
-  description: "Either 'Yes' or the variable remains empty"
-  old_codes: [REPLACE, REPLACE]
-  code: 1

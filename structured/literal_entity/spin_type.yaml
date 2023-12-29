@@ -1,0 +1,18 @@
+
+- title: "Universty Spinoff"
+  label: "Universty Spinoff"
+  code-tools: true
+  sort-order: 1
+  description: "Universty Spinoff"
+  old_codes: [None]
+  code: 1
+
+
+
+- title: "Research Institute Spinoff"
+  label: "Research Institute Spinoff"
+  code-tools: true
+  sort-order: 0
+  description: "Research Institute Spinoff"
+  old_codes: [None]
+  code: 0

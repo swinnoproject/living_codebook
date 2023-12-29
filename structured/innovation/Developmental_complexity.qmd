@@ -6,7 +6,7 @@ name: dev_comp
 sort-order: 10
 description: "Complexity of the development of the innovation"
 listing:
-  id: Codes
+  id: codes
   contents: Developmental_complexity.yaml
   type: table
   fields: [title, label, code, description]

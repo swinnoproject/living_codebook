@@ -2,7 +2,7 @@
 title: "patent_assigned_to_person"
 code-tools: true
 old-name: "patent_assigned_to_person"
-new: "pat_assig_pers"
+name: "pat_assig_pers"
 sort-order: 24
 description: REPLACE
 ---

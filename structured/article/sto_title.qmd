@@ -2,7 +2,7 @@
 title: "Article title"
 code-tools: true
 old-name: "sto_title"
-new: "title"
+name: "title"
 sort-order: 12
 description: "The title of the source article."
 ---

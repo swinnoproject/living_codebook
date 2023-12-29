@@ -1,13 +1,13 @@
 ---
-title: "Content_type"
+title: "Relationship type"
 code-tools: true
-old-name: sto_fk_content_type
+old-name: sto_fk_ref_to_other_entity_type
 name: type
-sort-order: 5
-description: "A characterisation of the source content"
+sort-order: 2
+description: "The type of relationship between the innovaiton and entity"
 listing:
   id: codes
-  contents: Content_type.yaml
+  contents: type.yaml
   type: table
   fields: [title, label, code, description]
   sort-ui: false

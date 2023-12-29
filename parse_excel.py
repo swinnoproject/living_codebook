@@ -47,7 +47,7 @@ if __name__ == "__main__":
             f.write(f'title: "{writable_field}"\n')
             f.write("code-tools: true\n")
             f.write("old-name: LOOKUP\n")
-            f.write("new-name: REPLACE\n")
+            f.write("name: REPLACE\n")
             f.write("sort-order: 0\n")
             f.write(f'description: "{desc.replace(":", "")}"\n')
 

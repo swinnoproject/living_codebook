@@ -1,0 +1,8 @@
+---
+title: "Person"
+code-tools: true
+old-name: sto_fk_other_entity_type
+name: person
+sort-order: 5
+description: "Boolean, true|1 if the entity is a person. -- not part of the public dataset."
+---

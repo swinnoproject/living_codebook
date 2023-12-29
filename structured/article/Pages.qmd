@@ -2,7 +2,7 @@
 title: "Pages"
 code-tools: true
 old-name: sto_pages
-new-name: pages
+name: pages
 sort-order: 0
 description: "On which pages does the article occur"
 ---

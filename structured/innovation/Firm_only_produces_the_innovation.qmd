@@ -1,22 +1,8 @@
 ---
 title: "Firm_only_produces_the_innovation"
 code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
+old-name: firm_produces_only
+name: prod_only
 sort-order: 0
 description: "If the firm recorded as Innovating firm produces the innovation but has not developed it this variable has the value 1"
-listing:
-  id: Codes
-  contents: Firm_only_produces_the_innovation.yaml
-  type: table
-  fields: [title, label, code, description]
-  sort-ui: false
-  sort:
-    - sort-order
-    - code
-    - title
 ---
-
-:::{ #Codes }
-:::

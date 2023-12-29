@@ -1,0 +1,21 @@
+---
+title: "Relationship subtype"
+code-tools: true
+old-name: sto_rstoes_number_1
+name: subtype
+sort-order: 4
+description: "The subtype of relationship between the innovaiton and collaborating or funding organizations"
+listing:
+  id: codes
+  contents: subtype.yaml
+  type: table
+  fields: [title, label, code, sort-order, description]
+  sort-ui: false
+  sort:
+    - sort-order
+    - code
+    - title
+---
+
+:::{ #Codes }
+:::

@@ -2,7 +2,7 @@
 title: "firm_applying_for_patent"
 code-tools: true
 old-name: "firm_applying_for_patent"
-new: "pat_firm_applying"
+name: "pat_firm_applying"
 sort-order: 22
 description: REPLACE
 ---

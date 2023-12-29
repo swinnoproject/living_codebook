@@ -1,7 +1,7 @@
 ---
 title: "Additional_information_if_Origin__20_Other"
 code-tools: true
-old-name: ori_20_note
+old-name: origin__additional_info__alt_20
 name: ori_20_note
 sort-order: 40
 description: "Additional information if Origin Other"

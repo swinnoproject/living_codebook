@@ -1,22 +1,8 @@
 ---
 title: "Firm_founded_for_development_or_commercialization"
 code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
+old-name: firm_launched_for_innovation_development
+name: firm_launched_development
 sort-order: 0
 description: "Was the firm founded to develop or commercialize the innovation"
-listing:
-  id: Codes
-  contents: Firm_founded_for_development_or_commercialization.yaml
-  type: table
-  fields: [title, label, code, description]
-  sort-ui: false
-  sort:
-    - sort-order
-    - code
-    - title
 ---
-
-:::{ #Codes }
-:::

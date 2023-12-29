@@ -1,13 +1,12 @@
 ---
 title: "Origins"
 code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
+old-name: origin_*
+name: origin
 sort-order: 0
 description: "Which factors contributed to the origin of the innovation"
 listing:
-  id: Codes
+  id: codes
   contents: origin.yaml
   type: table
   fields: [title, label, code, description]

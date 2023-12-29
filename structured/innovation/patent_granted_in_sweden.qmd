@@ -2,7 +2,7 @@
 title: "patent_granted_in_sweden"
 code-tools: true
 old-name: "patent_granted_in_sweden"
-new: "pat_swe"
+name: "pat_swe"
 sort-order: 26
 description: REPLACE
 ---

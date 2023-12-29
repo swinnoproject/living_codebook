@@ -1,13 +1,12 @@
 ---
 title: "Innovation_type"
 code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
+old-name: innovation_type
+name: type
 sort-order: 0
 description: "Status of the innovation"
 listing:
-  id: Codes
+  id: codes
   contents: Innovation_type.yaml
   type: table
   fields: [title, label, code, description]

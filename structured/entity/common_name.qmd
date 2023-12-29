@@ -1,9 +1,8 @@
 ---
 title: "SINNO's_common_name"
 code-tools: true
-old-name: LOOKUP
-new-name: REPLACE
-table-nr: LOOKUP
-sort-order: 0
+old-name: sto_entity_common_name
+name: name
+sort-order: 5
 description: "The common name of the firm or organization"
 ---

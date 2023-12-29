@@ -2,7 +2,7 @@
 title: "Start_year_of_development"
 code-tools: true
 old-name: start_of_development
-new-name: year_dev
+name: year_dev
 sort-order: 6
 description: "In which year did the development of the innovation start"
 ---

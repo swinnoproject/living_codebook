@@ -1,7 +1,7 @@
 ---
 title: innovation
-old_name: innovations
-name: title
+old-name: innovations
+name: innovation
 code-tools: true
 description: "The heart of the SWINNO database"
 listing:

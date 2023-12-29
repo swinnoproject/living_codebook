@@ -2,7 +2,7 @@
 title: "patent_granted_by_EPO"
 code-tools: true
 old-name: "patent_granted_by_EPO"
-new: "pat_epo"
+name: "pat_epo"
 sort-order: 27
 description: REPLACE
 ---

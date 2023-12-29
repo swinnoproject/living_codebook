@@ -1,6 +1,6 @@
 ---
 title: Technological Knowhow
-old_name: Null
+old-name: Null
 name: techknow
 code-tools: true
 description: "Technological Knowhow (ADD DEF)"
