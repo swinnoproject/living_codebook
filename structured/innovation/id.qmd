@@ -18,9 +18,9 @@ tech_know:
 origin:
   name: innovation_id
   old-name: pk_record
-innovaton_entity:
+innovation_entity:
   name: innovation_id
-  old-name: pk_record
+  old-name: sto_fk_source_record
 spin_off:
   name: innovation_id
   old-name: pk_record

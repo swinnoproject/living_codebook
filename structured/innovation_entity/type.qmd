@@ -1,7 +1,7 @@
 ---
 title: "Relationship type"
 code-tools: true
-old-name: rsto_rstoes_number_1
+old-name: sto_fk_ref_to_other_entity_type
 name: type
 sort-order: 2
 description: "The type of relationship between the innovaiton and entity"

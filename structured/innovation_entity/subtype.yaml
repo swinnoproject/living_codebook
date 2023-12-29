@@ -1,0 +1,161 @@
+- title: "Domestic consults"
+  label: "Domestic consults"
+  sort-order: 0
+  old_codes: [15096]
+  code: 5
+
+- title: "Domestic customers"
+  label: "Domestic customers"
+  sort-order: 0
+  old_codes: [66]
+  code: 2
+
+- title: "Domestic firm"
+  label: "Domestic firm"
+  sort-order: 0
+  old_codes: [76]
+  code: 17
+
+- title: "Domestic research institute"
+  label: "Domestic research institute"
+  sort-order: 0
+  old_codes: [74]
+  code: 14
+
+- title: "Domestic subcontractors"
+  label: "Domestic subcontractors"
+  sort-order: 0
+  old_codes: [70]
+  code: 8
+
+- title: "Domestic universities"
+  label: "Domestic universities"
+  sort-order: 0
+  old_codes: [72]
+  code: 11
+
+- title: "Firm from unknown country"
+  label: "Firm from unknown country"
+  sort-order: 0
+  old_codes: [15182]
+  code: 19
+
+- title: "Foreign consults"
+  label: "Foreign consults"
+  sort-order: 0
+  old_codes: [15097]
+  code: 6
+
+- title: "Foreign customers"
+  label: "Foreign customers"
+  sort-order: 0
+  old_codes: [15095]
+  code: 3
+
+- title: "Foreign firm"
+  label: "Foreign firm"
+  sort-order: 0
+  old_codes: [77]
+  code: 18
+
+- title: "Foreign research institute"
+  label: "Foreign research institute"
+  sort-order: 0
+  old_codes: [75]
+  code: 15
+
+- title: "Foreign subcontractors"
+  label: "Foreign subcontractors"
+  sort-order: 0
+  old_codes: [71]
+  code: 9
+
+- title: "Foreign universities"
+  label: "Foreign universities"
+  sort-order: 0
+  old_codes: [73]
+  code: 12
+
+- title: "Other"
+  label: "Other"
+  sort-order: 0
+  old_codes: [80]
+  code: 36
+
+- title: "Other firms belonging to the same concern"
+  label: "Other firms belonging to the same concern"
+  sort-order: 0
+  old_codes: [65]
+  code: 1
+
+- title: "Public institution"
+  label: "Public institution"
+  sort-order: 0
+  old_codes: [78]
+  code: 34
+
+- title: "Publicly owned company"
+  label: "Publicly owned company"
+  sort-order: 0
+  old_codes: [79]
+  code: 35
+
+- title: "European Union related"
+  label: "European Union related"
+  sort-order: 0
+  old_codes: [3664]
+  code: 6
+
+- title: "Ministry of Enterprise (Näringsdepartementet)"
+  label: "Ministry of Enterprise (Näringsdepartementet)"
+  sort-order: 0
+  old_codes: [3660]
+  code: 2
+
+- title: "Nordiska Industrifonden / Nordisk Industrifonden / Nordic Innovation"
+  label: "Nordiska Industrifonden / Nordisk Industrifonden / Nordic Innovation"
+  sort-order: 0
+  old_codes: [3663]
+  code: 5
+
+- title: "Other public organization"
+  label: "Other public organization"
+  sort-order: 0
+  old_codes: [3665]
+  code: 7
+
+- title: "Private"
+  label: "Private"
+  sort-order: 0
+  old_codes: [3667]
+  code: 0
+
+- title: "Regional Development Fund"
+  label: "Regional Development Fund"
+  sort-order: 0
+  old_codes: [3662]
+  code: 4
+
+- title: "Semipublic"
+  label: "Semipublic"
+  sort-order: 0
+  old_codes: [3668]
+  code: 10
+
+- title: "State-owned company"
+  label: "State-owned company"
+  sort-order: 0
+  old_codes: [3666]
+  code: 8
+
+- title: "Unknown"
+  label: "Unknown"
+  sort-order: 0
+  old_codes: [3682]
+  code: 11
+
+- title: "VINNOVA"
+  label: "VINNOVA"
+  sort-order: 0
+  old_codes: [3659]
+  code: 1
