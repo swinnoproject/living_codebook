@@ -4,5 +4,5 @@ code-tools: true
 old-name: "firm_applying_for_patent"
 name: "pat_firm_applying"
 sort-order: 22
-description: REPLACE
+description: "The name of the firm that is applying for a patent related to the innovation."
 ---

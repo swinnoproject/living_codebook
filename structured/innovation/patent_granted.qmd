@@ -4,5 +4,5 @@ code-tools: true
 old-name: "patent_granted"
 name: "pat_granted"
 sort-order: 25
-description: REPLACE
+description: "At least one patent had been granted."
 ---

@@ -4,5 +4,5 @@ code-tools: true
 old-name: "patent_granted_in_sweden"
 name: "pat_swe"
 sort-order: 26
-description: REPLACE
+description: "At least one patent has been granted by the Swedish patent office."
 ---

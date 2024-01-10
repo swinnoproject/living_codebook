@@ -4,5 +4,5 @@ code-tools: true
 old-name: "a_patent_application_exists"
 name: "pat_applied"
 sort-order: 21
-description: REPLACE
+description: "A patent application exists for the innovation."
 ---

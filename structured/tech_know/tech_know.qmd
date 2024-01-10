@@ -4,7 +4,7 @@ code-tools: true
 old-name: technical_know_how_*
 name: techknow
 sort-order: 2
-description: REPLACE_Technical_knowhow
+description: tech_know
 listing:
   id: codes
   contents: tech_know.yaml
