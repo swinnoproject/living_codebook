@@ -2,11 +2,12 @@
 title: "Novelty_from_firm_perspective"
 code-tools: true
 old-name: novelty__firm_perspective
-name: novel_firm
+name: novelty_firm
 sort-order: 11
 description: "Degree of novelty from the firm perspective"
 listing:
   id: codes
+  template: ../../codes.ejs
   contents: Novelty_from_firm_perspective.yaml
   type: table
   fields: [title, label, code, description]
@@ -15,7 +16,12 @@ listing:
     - sort-order
     - code
     - title
+title-block-style: none
 ---
+
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
 
 :::{ #Codes }
 :::

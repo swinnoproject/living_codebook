@@ -7,6 +7,7 @@ sort-order: 0
 description: "The university or research institute that that the innovation spun off from"
 listing:
   id: codes
+  template: ../../codes.ejs
   contents: spin_type.yaml
   type: table
   fields: [title, label, code, description]
@@ -15,7 +16,12 @@ listing:
     - sort-order
     - code
     - title
+title-block-style: none
 ---
+
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
 
 :::{ #Codes }
 :::

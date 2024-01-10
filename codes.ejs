@@ -1,0 +1,18 @@
+<h2> Coded values </h2>
+<ul>
+
+    <% for (const item of items) { %>
+
+        <h6>
+            <%= item.title %>
+        </h6>
+
+        <p>
+            Code: <code> <%= item.code %> </code>
+        </p>
+
+        <p><%- item.description %></p>
+
+        <% } %>
+
+</ul>

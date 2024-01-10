@@ -6,6 +6,7 @@ code-tools: true
 description: "Innovation origin"
 listing:
   id: fields
+  template: ../fields.ejs
   contents:
    - innovation/id.qmd
    - origin/*qmd
@@ -15,8 +16,12 @@ listing:
   sort:
    - sort-order
    - name
+title-block-style: none
 ---
 
-## fields
-:::{ #fields }
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
+
+:::{ #Fields }
 :::

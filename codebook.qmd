@@ -1,11 +1,22 @@
 ---
-title: codebook
+title: codebook contents
 listing:
-  id: tables
-  contents: structured/*qmd
-  type: table
+  - id: tables
+    contents: structured/*qmd
+    template: fields.ejs
+    type: table
+  - id: fields
+    contents: structured/*/*qmd
+    template: fields.ejs
 ---
 
-## Available tables
+This page gives a full accounting of all the tables and fields in the
+database. For reference of how the fields relate to tables, visit the
+individual table-pages.
+
 :::{ #tables }
+:::
+
+
+:::{ #fields }
 :::

@@ -3,9 +3,10 @@ title: Article
 old-name: source_descriptions
 name: article
 code-tools: true
-description: "The heart of the SWINNO database"
+description: "LBIO sources"
 listing:
   id: fields
+  template: ../fields.ejs
   contents: article/*.qmd
   type: table
   fields: [title, name, description]
@@ -13,8 +14,12 @@ listing:
   sort:
    - sort-order
    - name
+title-block-style: none
 ---
 
-## fields
-:::{ #fields }
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
+
+:::{ #Fields }
 :::
