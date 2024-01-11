@@ -4,5 +4,5 @@ code-tools: true
 old-name: "sto_source_date_or_period__text"
 name: "year"
 sort-order: 14
-description: REPLACE
+description: "The year in which the article was published."
 ---

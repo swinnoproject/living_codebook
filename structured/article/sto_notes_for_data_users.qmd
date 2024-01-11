@@ -4,5 +4,5 @@ code-tools: true
 old-name: "sto_notes_for_data_users"
 name: "notes"
 sort-order: 13
-description: REPLACE
+description: "Additional notes about the article."
 ---

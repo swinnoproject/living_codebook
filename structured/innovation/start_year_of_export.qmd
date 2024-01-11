@@ -4,5 +4,5 @@ code-tools: true
 old-name: "start_year_of_export"
 name: "yr_export"
 sort-order: 32
-description: REPLACE
+description: "The year in which the innovation was first exported"
 ---

@@ -7,6 +7,7 @@ sort-order: 0
 description: "Which factors contributed to the origin of the innovation"
 listing:
   id: codes
+  template: ../../codes.ejs
   contents: origin.yaml
   type: table
   fields: [title, label, code, description]
@@ -15,7 +16,12 @@ listing:
     - sort-order
     - code
     - title
+title-block-style: none
 ---
+
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
 
 :::{ #Codes }
 :::

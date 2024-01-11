@@ -7,6 +7,7 @@ sort-order: 10
 description: "Complexity of the development of the innovation"
 listing:
   id: codes
+  template: ../../codes.ejs
   contents: Developmental_complexity.yaml
   type: table
   fields: [title, label, code, description]
@@ -15,7 +16,12 @@ listing:
     - sort-order
     - code
     - title
+title-block-style: none
 ---
+
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
 
 :::{ #Codes }
 :::

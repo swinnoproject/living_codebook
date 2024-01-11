@@ -6,6 +6,7 @@ code-tools: true
 description: "Companies, people and organisations"
 listing:
   id: fields
+  template: ../fields.ejs
   contents:
    - innovation_entity/*.qmd
    - innovation/id.qmd
@@ -16,8 +17,12 @@ listing:
   sort:
    - sort-order
    - name
+title-block-style: none
 ---
 
-## fields
-:::{ #fields }
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
+
+:::{ #Fields }
 :::

@@ -2,7 +2,7 @@
 title: "Public_technology_program's_name"
 code-tools: true
 old-name: public_technology_program__name
-name: REPLACE_pub_tech_prog
+name: pub_tech_prog
 sort-order: 0
 description: "If there is a public technology program involved then what is the name"
 ---

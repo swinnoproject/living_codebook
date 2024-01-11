@@ -5,7 +5,7 @@ code-tools: true
 
 This site hosts the *codebok* for the SWINNO-database, which is a database
 of swedish innovations. For more information about the SWINNO project visit
-[swedishinnovationdata.se](swedishinnovationdata.se).
+[swedishinnovationdata.se](https://www.swedishinnovationdata.se).
 
 
 This codebook is created using *Quarto*, and the source files behind the

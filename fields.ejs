@@ -1,0 +1,15 @@
+<h2>Available Fields</h2>
+<ul>
+    <% for (const item of items) { %>
+
+
+        <h4><a href="<%- item.path%>"><%- item.title%></a>
+        </h4>
+        <code> <%= item.name %> </code>
+
+        <p><%- item.description %></p>
+
+
+        <% } %>
+
+</ul>

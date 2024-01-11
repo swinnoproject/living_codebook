@@ -4,9 +4,10 @@ code-tools: true
 old-name: sto_fk_country_code
 name: country
 sort-order: 0
-description: "In which country was the collaborating actor located during the collaboration. ISO 3166-1 alpha-3 codes with amendment."
+description: "In which country was the collaborating actor located during the collaboration. ISO 3166-1 alpha-3 codes with amendments."
 listing:
   id: codes
+  template: ../../codes.ejs
   contents: country.yaml
   type: table
   fields: [title, label, code, description]
@@ -15,7 +16,12 @@ listing:
     - sort-order
     - code
     - title
+title-block-style: none
 ---
+
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
 
 :::{ #Codes }
 :::

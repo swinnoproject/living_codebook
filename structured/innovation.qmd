@@ -6,6 +6,7 @@ code-tools: true
 description: "The heart of the SWINNO database"
 listing:
   id: fields
+  template: ../fields.ejs
   contents: innovation/*qmd
   type: table
   fields: [title, name, description]
@@ -13,8 +14,12 @@ listing:
   sort:
    - sort-order
    - name
+title-block-style: none
 ---
 
-## fields
-:::{ #fields }
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
+
+:::{ #Fields }
 :::

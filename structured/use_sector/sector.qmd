@@ -7,6 +7,7 @@ sort-order: 0
 description: "User sector of the innovation according to  Svensk Näringslivsindelning SNI 2002, with a few custom codes."
 listing:
   id: codes
+  template: ../../codes.ejs
   contents: sector.yaml
   type: table
   fields: [title, label, code, description]
@@ -15,7 +16,12 @@ listing:
     - sort-order
     - code
     - title
+title-block-style: none
 ---
 
-:::{ #sni }
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
+
+:::{ #Codes }
 :::

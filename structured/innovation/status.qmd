@@ -1,13 +1,14 @@
 ---
-title: "Innovation_type"
+title: "Innovation Status"
 code-tools: true
 old-name: innovation_type
-name: type
+name: status
 sort-order: 0
 description: "Status of the innovation"
 listing:
   id: codes
-  contents: Innovation_type.yaml
+  template: ../../codes.ejs
+  contents: status.yaml
   type: table
   fields: [title, label, code, description]
   sort-ui: false
@@ -15,7 +16,12 @@ listing:
     - sort-order
     - code
     - title
+title-block-style: none
 ---
+
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
 
 :::{ #Codes }
 :::

@@ -1,8 +1,0 @@
----
-title: "Literal_name_of_collaborator"
-code-tools: true
-old-name: LOOKUP_colab_name
-name: fund_lit_name
-sort-order: 0
-description: "In the SWINNO extension collection Name of the collaborating actor as written in the sources"
----

@@ -7,6 +7,7 @@ sort-order: 8
 description: "Product code of the innovation according to Svensk Näringslivsindelning SNI 2002 In principle a five digit code is entered where possible"
 listing:
   id: codes
+  template: ../../codes.ejs
   contents: Product_code.yaml
   type: table
   fields: [title, label, code, description]
@@ -15,7 +16,12 @@ listing:
     - sort-order
     - code
     - title
+title-block-style: none
 ---
+
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
 
 :::{ #Codes }
 :::

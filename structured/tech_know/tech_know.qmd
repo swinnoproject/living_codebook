@@ -4,9 +4,10 @@ code-tools: true
 old-name: technical_know_how_*
 name: techknow
 sort-order: 2
-description: REPLACE_Technical_knowhow
+description: Technican knowhow
 listing:
   id: codes
+  template: ../../codes.ejs
   contents: tech_know.yaml
   type: table
   fields: [title, label, code, description]
@@ -15,7 +16,12 @@ listing:
     - sort-order
     - code
     - title
+title-block-style: none
 ---
 
-:::{ #fields }
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
+
+:::{ #Codes }
 :::
