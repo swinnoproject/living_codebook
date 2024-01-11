@@ -8,7 +8,7 @@ description: "Status of the innovation"
 listing:
   id: codes
   template: ../../codes.ejs
-  contents: Innovation_status.yaml
+  contents: status.yaml
   type: table
   fields: [title, label, code, description]
   sort-ui: false
