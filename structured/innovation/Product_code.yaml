@@ -5,7 +5,7 @@
   sort-order: 0
   description: "This is not an official SNI code"
   old_codes: [REPLACE, REPLACE]
-  code: s
+  code: -100
 
 - title: "general use for end-users (final consumers)"
   label: "general use for end-users (final consumers)"
