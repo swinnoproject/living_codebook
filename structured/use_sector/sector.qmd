@@ -1,7 +1,7 @@
 ---
 title: "Use_sectors"
 code-tools: true
-old-name: Null
+old-name: "use_sector_*"
 name: use_sector
 sort-order: 0
 description: "User sector of the innovation according to  Svensk Näringslivsindelning SNI 2002, with a few custom codes."
