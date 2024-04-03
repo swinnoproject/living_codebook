@@ -1,0 +1,28 @@
+---
+title: "VariantName"
+code-tools: true
+old-name: other_entities
+name: name_variant
+sort-order: 0
+description: "Companies, organisatons and people"
+listing:
+  id: fields
+  template: ../fields.ejs
+  contents:
+   - innovation/id.qmd
+   - name/*qmd
+  type: table
+  fields: [title, name, description]
+  sort-ui: false
+  sort:
+   - sort-order
+   - name
+title-block-style: none
+---
+
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
+
+:::{ #Fields }
+:::

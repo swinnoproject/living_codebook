@@ -27,6 +27,9 @@ spin_off:
 exploiter:
   name: innovation_id
   old-name: pk_record
+name_variant:
+  name: innovation_id
+  old-name: sto_fk_source_record
 table-nr: 1
 sort-order: 0
 description: "The SINNO ID uniquely identifies an item in the database so even between collections there are no doubles The ID consists of a follow number plus a three digit extension that indicates what kind of thing it is"
