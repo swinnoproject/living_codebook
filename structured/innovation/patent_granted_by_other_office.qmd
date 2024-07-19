@@ -1,8 +1,0 @@
----
-title: "patent_granted_by_other_office"
-code-tools: true
-old-name: "patent_granted_by_other_office"
-name: "pat_other"
-sort-order: 30
-description: "At least one patent has been granted by another patent office."
----

@@ -1,8 +1,0 @@
----
-title: "patent_granted_by_USPTO"
-code-tools: true
-old-name: "patent_granted_by_USPTO"
-name: "pat_uspto"
-sort-order: 28
-description: "At least one patent has been granted by USPTO."
----
