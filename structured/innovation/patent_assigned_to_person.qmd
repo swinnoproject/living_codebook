@@ -1,8 +1,0 @@
----
-title: "patent_assigned_to_person"
-code-tools: true
-old-name: "patent_assigned_to_person"
-name: "pat_assig_pers"
-sort-order: 24
-description: "The name of the person that the patent is assigned to."
----
