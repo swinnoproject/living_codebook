@@ -1,0 +1,8 @@
+---
+title: "Patented"
+code-tools: true
+old-name: None
+name: "patented"
+sort-order: 25
+description: "The number of identified patents of the innovation."
+---

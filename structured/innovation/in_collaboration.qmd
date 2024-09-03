@@ -2,7 +2,7 @@
 title: "Developed_in_collaboration_with_other_actors"
 code-tools: true
 old-name: development_involved_collaboration_with_others
-name: collaboratoin
+name: collaboration
 sort-order: 41
 description: "Has the development of the innovation included collaboration with others"
 ---
