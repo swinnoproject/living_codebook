@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Companies, people and organisations">
+<meta name="description" content="Companies, organisatons and people">
 
-<title>Innovation to Entity – SWINNO Codebook</title>
+<title>VariantName – SWINNO Codebook</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -115,7 +115,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     const options = {
       valueNames: ['listing-title','listing-name','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-title","listing-code-tools","listing-old-name","listing-name","listing-table-nr","listing-sort-order","listing-description","listing-path","listing-outputHref","listing-author","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-listing","listing-title-block-style","listing-innovation","listing-innovation_article","listing-sector","listing-tech_know","listing-origin","listing-innovation_entity","listing-spin_off","listing-exploiter","listing-name_variant","listing-entity"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-title","listing-code-tools","listing-old-name","listing-name","listing-innovation","listing-innovation_article","listing-sector","listing-tech_know","listing-origin","listing-innovation_entity","listing-spin_off","listing-exploiter","listing-name_variant","listing-table-nr","listing-sort-order","listing-description","listing-path","listing-outputHref","listing-author","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -202,7 +202,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../structured/entity.html">Entity</a></li><li class="breadcrumb-item"><a href="../structured/innovation_entity.html">Innovation to Entity Table</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">VariantName</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -499,7 +499,7 @@ window.Quarto = {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../structured/innovation_entity.html" class="sidebar-item-text sidebar-link active">
+  <a href="../structured/innovation_entity.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Innovation to Entity Table</span></a>
   </div>
 </li>
@@ -652,13 +652,13 @@ window.Quarto = {
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header">
-<div class="quarto-title-block d-none d-lg-block"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../structured/entity.html">Entity</a></li><li class="breadcrumb-item"><a href="../structured/innovation_entity.html">Innovation to Entity Table</a></li></ol></nav><div><h1 class="title">Innovation to Entity</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
+<div class="quarto-title-block d-none d-lg-block"><div><h1 class="title">VariantName</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
 
 </header>
 
 
-<p><code>innovation_entity</code></p>
-<p>Companies, people and organisations</p>
+<p><code>name_variant</code></p>
+<p>Companies, organisatons and people</p>
 <div id="Fields">
 
 </div>
@@ -674,14 +674,6 @@ window.Quarto = {
 <ul>
     
 
-        <h4 class="anchored"><a href="../structured/innovation_entity/id.html">Innovation to Entity ID</a>
-        </h4>
-        <code> id </code>
-
-        <p>The SINNO ID uniquely identifies an item in the database so even between collections there are no doubles The ID consists of a follow number plus a three digit extension that indicates what kind of thing it is</p>
-
-        
-
         <h4 class="anchored"><a href="../structured/innovation/id.html">Innovation ID</a>
         </h4>
         <code> innovation_id </code>
@@ -690,27 +682,19 @@ window.Quarto = {
 
         
 
-        <h4 class="anchored"><a href="../structured/entity/id.html">Entity ID</a>
+        <h4 class="anchored"><a href="../structured/name/id.html">name variant ID</a>
         </h4>
-        <code> entity_id </code>
+        <code> id </code>
 
-        <p>Unique, stable identifier for the entity.</p>
+        <p>Unique, stable identifier for the name.</p>
 
         
 
-        <h4 class="anchored"><a href="../structured/innovation_entity/type.html">Relationship type</a>
+        <h4 class="anchored"><a href="../structured/name/variant_name.html">Name variant</a>
         </h4>
-        <code> type </code>
+        <code> text </code>
 
-        <p>The type of relationship between the innovaiton and entity</p>
-
-        
-
-        <h4 class="anchored"><a href="../structured/innovation_entity/subtype.html">Relationship subtype</a>
-        </h4>
-        <code> subtype </code>
-
-        <p>The subtype of relationship between the innovaiton and collaborating or funding organizations</p>
+        <p>The a variant name</p>
 
         
 
@@ -1191,18 +1175,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Source Code</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
 <div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> Innovation to Entity</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">old-name:</span><span class="co"> refs_to_other_entities</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="an">name:</span><span class="co"> innovation_entity</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="an">code-tools:</span><span class="co"> true</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="an">description:</span><span class="co"> "Companies, people and organisations"</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="an">listing:</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co">  id: fields</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co">  template: ../fields.ejs</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co">  contents:</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">   - innovation_entity/*.qmd</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "VariantName"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">code-tools:</span><span class="co"> true</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="an">old-name:</span><span class="co"> other_entities</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="an">name:</span><span class="co"> name_variant</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="an">sort-order:</span><span class="co"> 0</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="an">description:</span><span class="co"> "Companies, organisatons and people"</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="an">listing:</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co">  id: fields</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co">  template: ../fields.ejs</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">  contents:</span></span>
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co">   - innovation/id.qmd</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co">   - entity/id.qmd</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co">   - name/*qmd</span></span>
 <span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co">  type: table</span></span>
 <span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co">  fields: [title, name, description]</span></span>
 <span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="co">  sort-ui: false</span></span>
@@ -1227,7 +1211,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
 <p><em>Site is under construction, v1.0 will be released January 2024</em></p>
-<div class="toc-actions"><ul><li><a href="https://github.com/swinnoproject/living_codebook/edit/main/structured/innovation_entity.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/swinnoproject/living_codebook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+<div class="toc-actions"><ul><li><a href="https://github.com/swinnoproject/living_codebook/edit/main/structured/name_variant.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/swinnoproject/living_codebook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p><a href="../tscs.html">Terms and Conditions</a></p>
 </div>

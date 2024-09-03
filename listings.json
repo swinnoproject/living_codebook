@@ -1,33 +1,31 @@
 [
   {
-    "listing": "/structured/use_sector/sector.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/exploiter.html",
+    "listing": "/structured/name_variant.html",
     "items": [
       "/structured/innovation/id.html",
-      "/structured/literal_entity/name.html"
+      "/structured/name/id.html",
+      "/structured/name/variant_name.html"
     ]
   },
   {
-    "listing": "/structured/literal_entity/spin_type.html",
-    "items": []
+    "listing": "/structured/innovation_article.html",
+    "items": [
+      "/structured/article/id.html",
+      "/structured/innovation/id.html"
+    ]
   },
   {
-    "listing": "/structured/entity/country.html",
-    "items": []
+    "listing": "/structured/innovation_entity.html",
+    "items": [
+      "/structured/innovation_entity/id.html",
+      "/structured/innovation/id.html",
+      "/structured/entity/id.html",
+      "/structured/innovation_entity/type.html",
+      "/structured/innovation_entity/subtype.html"
+    ]
   },
   {
-    "listing": "/structured/entity/Science_spin-off.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/innovation/status.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/innovation/Novelty_from_firm_perspective.html",
+    "listing": "/structured/innovation/Artifactual_complexity.html",
     "items": []
   },
   {
@@ -35,30 +33,8 @@
     "items": []
   },
   {
-    "listing": "/structured/article.html",
-    "items": [
-      "/structured/article/id.html",
-      "/structured/article/Journal_or_magazine.html",
-      "/structured/article/Pages.html",
-      "/structured/article/Issue.html",
-      "/structured/article/Content_type.html",
-      "/structured/article/volume.html",
-      "/structured/article/Annex_or_supplement.html",
-      "/structured/article/sto_title.html",
-      "/structured/article/sto_notes_for_data_users.html",
-      "/structured/article/sto_source_date_or_period__text.html"
-    ]
-  },
-  {
-    "listing": "/structured/origin/origin.html",
+    "listing": "/structured/innovation/Developmental_complexity.html",
     "items": []
-  },
-  {
-    "listing": "/structured/use_sector.html",
-    "items": [
-      "/structured/innovation/id.html",
-      "/structured/use_sector/sector.html"
-    ]
   },
   {
     "listing": "/structured/tech_know.html",
@@ -68,26 +44,20 @@
     ]
   },
   {
-    "listing": "/structured/spinoff.html",
-    "items": [
-      "/structured/innovation/id.html",
-      "/structured/literal_entity/spin_type.html",
-      "/structured/literal_entity/name.html"
-    ]
-  },
-  {
-    "listing": "/structured/innovation_entity/type.html",
+    "listing": "/structured/innovation_entity/subtype.html",
     "items": []
   },
   {
-    "listing": "/structured/entity.html",
-    "items": [
-      "/structured/entity/country.html",
-      "/structured/entity/Science_spin-off.html",
-      "/structured/entity/id.html",
-      "/structured/entity/common_name.html",
-      "/structured/entity/type.html"
-    ]
+    "listing": "/structured/entity/country.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/literal_entity/spin_type.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/use_sector/sector.html",
+    "items": []
   },
   {
     "listing": "/codebook.html",
@@ -101,6 +71,7 @@
       "/structured/spinoff.html",
       "/structured/tech_know.html",
       "/structured/use_sector.html",
+      "/structured/name_variant.html",
       "/structured/innovation.html",
       "/structured/innovation/Additional_info_if_Origin__2a_Official_regulation,_legislation_and_standards..html",
       "/structured/innovation/Additional_information_if_Origin__1a_New_scientific_discovery.html",
@@ -135,6 +106,7 @@
       "/structured/article/Journal_or_magazine.html",
       "/structured/literal_entity/name.html",
       "/structured/innovation/Location.html",
+      "/structured/name/variant_name.html",
       "/structured/article/sto_notes_for_data_users.html",
       "/structured/innovation/Novelty_from_firm_perspective.html",
       "/structured/innovation/Novelty_from_market_perspective.html",
@@ -162,27 +134,96 @@
       "/structured/innovation/a_patent_application_exists.html",
       "/structured/innovation/export_has_started.html",
       "/structured/innovation/firm_applying_for_patent.html",
+      "/structured/name/id.html",
       "/structured/innovation/patent_granted.html",
       "/structured/innovation/start_year_of_export.html"
     ]
   },
   {
-    "listing": "/structured/innovation_entity.html",
+    "listing": "/structured/origin/origin.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/article.html",
     "items": [
-      "/structured/innovation_entity/id.html",
-      "/structured/innovation/id.html",
-      "/structured/entity/id.html",
-      "/structured/innovation_entity/type.html",
-      "/structured/innovation_entity/subtype.html"
+      "/structured/article/id.html",
+      "/structured/article/Journal_or_magazine.html",
+      "/structured/article/Pages.html",
+      "/structured/article/Issue.html",
+      "/structured/article/Content_type.html",
+      "/structured/article/volume.html",
+      "/structured/article/Annex_or_supplement.html",
+      "/structured/article/sto_title.html",
+      "/structured/article/sto_notes_for_data_users.html",
+      "/structured/article/sto_source_date_or_period__text.html"
     ]
   },
   {
-    "listing": "/structured/innovation_entity/subtype.html",
+    "listing": "/structured/entity/Science_spin-off.html",
     "items": []
+  },
+  {
+    "listing": "/structured/innovation_entity/type.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/entity.html",
+    "items": [
+      "/structured/entity/country.html",
+      "/structured/entity/Science_spin-off.html",
+      "/structured/entity/id.html",
+      "/structured/entity/common_name.html",
+      "/structured/entity/type.html"
+    ]
   },
   {
     "listing": "/structured/tech_know/tech_know.html",
     "items": []
+  },
+  {
+    "listing": "/structured/innovation/Novelty_from_firm_perspective.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/innovation/Product_code.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/innovation/status.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/origin.html",
+    "items": [
+      "/structured/innovation/id.html",
+      "/structured/origin/origin.html"
+    ]
+  },
+  {
+    "listing": "/structured/article/Content_type.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/exploiter.html",
+    "items": [
+      "/structured/innovation/id.html",
+      "/structured/literal_entity/name.html"
+    ]
+  },
+  {
+    "listing": "/structured/spinoff.html",
+    "items": [
+      "/structured/innovation/id.html",
+      "/structured/literal_entity/spin_type.html",
+      "/structured/literal_entity/name.html"
+    ]
+  },
+  {
+    "listing": "/structured/use_sector.html",
+    "items": [
+      "/structured/innovation/id.html",
+      "/structured/use_sector/sector.html"
+    ]
   },
   {
     "listing": "/structured/innovation.html",
@@ -223,35 +264,5 @@
       "/structured/innovation/Corporate_group.html",
       "/structured/innovation/Location.html"
     ]
-  },
-  {
-    "listing": "/structured/innovation_article.html",
-    "items": [
-      "/structured/article/id.html",
-      "/structured/innovation/id.html"
-    ]
-  },
-  {
-    "listing": "/structured/innovation/Artifactual_complexity.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/innovation/Developmental_complexity.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/innovation/Product_code.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/origin.html",
-    "items": [
-      "/structured/innovation/id.html",
-      "/structured/origin/origin.html"
-    ]
-  },
-  {
-    "listing": "/structured/article/Content_type.html",
-    "items": []
   }
 ]
