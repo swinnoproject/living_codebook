@@ -1,0 +1,8 @@
+---
+title: "Name variant"
+code-tools: true
+old-name: sto_text
+name: text
+sort-order: 5
+description: "The a variant name"
+---
