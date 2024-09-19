@@ -53,13 +53,11 @@ website:
   page-footer:
     background: "#161324"
     left: |
-      Copyright &copy;  2023 [SWINNO Project](https://www.swedishinnovationdata.se)
+      Copyright &copy;  2024 [SWINNO Project](https://www.swedishinnovationdata.se)
     # center:
     #     - href: https://github.com/swinnoproject
     #       icon: github
     #       aria-label: GitHub
-    center: |
-      *Site is under construction, v1.0 will be released January 2024*
 
     right: |
       [Terms and Conditions](/tscs.qmd)
