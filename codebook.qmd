@@ -3,7 +3,7 @@ title: codebook contents
 listing:
   - id: tables
     contents: structured/*qmd
-    template: fields.ejs
+    template: tables.ejs
     type: table
   - id: fields
     contents: structured/*/*qmd
