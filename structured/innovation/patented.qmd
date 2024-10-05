@@ -4,5 +4,9 @@ code-tools: true
 old-name: None
 name: "patented"
 sort-order: 25
-description: "The number of identified patents of the innovation."
+description: |
+    Whether the innovation, or parts thereof, are patented. See
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4127194">
+    Johansson, M., Nyqvist, J., & Taalbi, J. (2022)</a> for spefic
+    details on the matching method.
 ---
