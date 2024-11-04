@@ -1,97 +1,7 @@
 [
   {
-    "listing": "/structured/article.html",
-    "items": [
-      "/structured/article/id.html",
-      "/structured/article/Journal_or_magazine.html",
-      "/structured/article/Pages.html",
-      "/structured/article/Issue.html",
-      "/structured/article/Content_type.html",
-      "/structured/article/volume.html",
-      "/structured/article/Annex_or_supplement.html",
-      "/structured/article/sto_title.html",
-      "/structured/article/sto_notes_for_data_users.html",
-      "/structured/article/sto_source_date_or_period__text.html"
-    ]
-  },
-  {
-    "listing": "/structured/literal_entity/spin_type.html",
+    "listing": "/structured/article/Content_type.html",
     "items": []
-  },
-  {
-    "listing": "/structured/tech_know.html",
-    "items": [
-      "/structured/innovation/id.html",
-      "/structured/tech_know/tech_know.html"
-    ]
-  },
-  {
-    "listing": "/structured/innovation/Artifactual_complexity.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/innovation/Product_code.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/innovation/Developmental_complexity.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/innovation/Novelty_from_market_perspective.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/spinoff.html",
-    "items": [
-      "/structured/innovation/id.html",
-      "/structured/literal_entity/spin_type.html",
-      "/structured/literal_entity/name.html"
-    ]
-  },
-  {
-    "listing": "/structured/innovation_entity/type.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/entity/Science_spin-off.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/name_variant.html",
-    "items": [
-      "/structured/innovation/id.html",
-      "/structured/name/id.html",
-      "/structured/name/variant_name.html"
-    ]
-  },
-  {
-    "listing": "/structured/origin.html",
-    "items": [
-      "/structured/innovation/id.html",
-      "/structured/origin/origin.html"
-    ]
-  },
-  {
-    "listing": "/structured/use_sector/sector.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/innovation_article.html",
-    "items": [
-      "/structured/article/id.html",
-      "/structured/innovation/id.html"
-    ]
-  },
-  {
-    "listing": "/structured/innovation_entity.html",
-    "items": [
-      "/structured/innovation_entity/id.html",
-      "/structured/innovation/id.html",
-      "/structured/entity/id.html",
-      "/structured/innovation_entity/type.html",
-      "/structured/innovation_entity/subtype.html"
-    ]
   },
   {
     "listing": "/structured/entity.html",
@@ -104,7 +14,41 @@
     ]
   },
   {
-    "listing": "/structured/article/Content_type.html",
+    "listing": "/structured/origin.html",
+    "items": [
+      "/structured/innovation/id.html",
+      "/structured/origin/origin.html"
+    ]
+  },
+  {
+    "listing": "/structured/innovation/Artifactual_complexity.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/innovation/Product_code.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/innovation/status.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/name_variant.html",
+    "items": [
+      "/structured/innovation/id.html",
+      "/structured/name/id.html",
+      "/structured/name/variant_name.html"
+    ]
+  },
+  {
+    "listing": "/structured/innovation_article.html",
+    "items": [
+      "/structured/article/id.html",
+      "/structured/innovation/id.html"
+    ]
+  },
+  {
+    "listing": "/structured/tech_know/tech_know.html",
     "items": []
   },
   {
@@ -115,11 +59,41 @@
     ]
   },
   {
-    "listing": "/structured/tech_know/tech_know.html",
+    "listing": "/structured/innovation_entity/subtype.html",
     "items": []
   },
   {
-    "listing": "/structured/origin/origin.html",
+    "listing": "/structured/innovation_entity.html",
+    "items": [
+      "/structured/innovation_entity/id.html",
+      "/structured/innovation/id.html",
+      "/structured/entity/id.html",
+      "/structured/innovation_entity/type.html",
+      "/structured/innovation_entity/subtype.html"
+    ]
+  },
+  {
+    "listing": "/structured/spinoff.html",
+    "items": [
+      "/structured/innovation/id.html",
+      "/structured/literal_entity/spin_type.html",
+      "/structured/literal_entity/name.html"
+    ]
+  },
+  {
+    "listing": "/structured/entity/Science_spin-off.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/entity/country.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/use_sector/sector.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/innovation_entity/type.html",
     "items": []
   },
   {
@@ -130,11 +104,22 @@
     ]
   },
   {
-    "listing": "/structured/entity/country.html",
+    "listing": "/structured/tech_know.html",
+    "items": [
+      "/structured/innovation/id.html",
+      "/structured/tech_know/tech_know.html"
+    ]
+  },
+  {
+    "listing": "/structured/innovation/Developmental_complexity.html",
     "items": []
   },
   {
-    "listing": "/structured/innovation_entity/subtype.html",
+    "listing": "/structured/innovation/Novelty_from_firm_perspective.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/innovation/Novelty_from_market_perspective.html",
     "items": []
   },
   {
@@ -178,11 +163,26 @@
     ]
   },
   {
-    "listing": "/structured/innovation/Novelty_from_firm_perspective.html",
+    "listing": "/structured/origin/origin.html",
     "items": []
   },
   {
-    "listing": "/structured/innovation/status.html",
+    "listing": "/structured/article.html",
+    "items": [
+      "/structured/article/id.html",
+      "/structured/article/Journal_or_magazine.html",
+      "/structured/article/Pages.html",
+      "/structured/article/Issue.html",
+      "/structured/article/Content_type.html",
+      "/structured/article/volume.html",
+      "/structured/article/Annex_or_supplement.html",
+      "/structured/article/sto_title.html",
+      "/structured/article/sto_notes_for_data_users.html",
+      "/structured/article/sto_source_date_or_period__text.html"
+    ]
+  },
+  {
+    "listing": "/structured/literal_entity/spin_type.html",
     "items": []
   },
   {
