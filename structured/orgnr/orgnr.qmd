@@ -1,0 +1,8 @@
+---
+title: "Organisation Number"
+old-name: 'n/a'
+code-tools: true
+name: orgnr
+sort-order: 41
+description: "Matched organisation number - Preliminary version"
+---
