@@ -1,0 +1,28 @@
+---
+title: OrgNr
+old-name: 'n/a'
+name: orgnr
+code-tools: true
+description: "Matching innovation and entity to organisation numbers - Preliminary version"
+listing:
+  id: fields
+  template: ../fields.ejs
+  contents:
+   - orgnr/orgnr.qmd
+   - innovation/id.qmd
+   - entity/id.qmd
+  type: table
+  fields: [title, name, description]
+  sort-ui: false
+  sort:
+   - sort-order
+   - name
+title-block-style: none
+---
+
+<code>{{< meta name >}}</code>
+{{< meta description >}}
+
+
+:::{ #Fields }
+:::

@@ -1,0 +1,8 @@
+---
+title: "Bio economy"
+code-tools: true
+old-name: n/a
+name: bio_econ
+sort-order: 999
+description:  '"Qualitative coding of the source material links innovation from 1970 to 2021 with visions of a bioresource, biotechnology and/biotechnology for bioecology bioeconomy. See [https://github.com/pjkreutzer/swinno-bioeconomy-directionality](https://github.com/pjkreutzer/swinno-bioeconomy-directionality) for details.'
+---
