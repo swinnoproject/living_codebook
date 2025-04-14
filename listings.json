@@ -1,35 +1,89 @@
 [
   {
-    "listing": "/structured/article/Content_type.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/entity.html",
+    "listing": "/codebook.html",
     "items": [
+      "/structured/article.html",
+      "/structured/entity.html",
+      "/structured/exploiter.html",
+      "/structured/innovation_article.html",
+      "/structured/innovation_entity.html",
+      "/structured/orgnr.html",
+      "/structured/origin.html",
+      "/structured/spinoff.html",
+      "/structured/tech_know.html",
+      "/structured/use_sector.html",
+      "/structured/name_variant.html",
+      "/structured/innovation.html",
+      "/structured/innovation/Additional_info_if_Origin__2a_Official_regulation,_legislation_and_standards..html",
+      "/structured/innovation/Additional_information_if_Origin__1a_New_scientific_discovery.html",
+      "/structured/innovation/Additional_information_if_Origin__1b_New_technologies_or_materials.html",
+      "/structured/innovation/Additional_information_if_Origin__20_Other.html",
+      "/structured/innovation/Additional_information_if_Origin__5b_Solution_for_a_problem.html",
+      "/structured/innovation/Additional_information_if_Origin__7_Performance.html",
+      "/structured/article/Annex_or_supplement.html",
+      "/structured/article/id.html",
+      "/structured/innovation_article/article.html",
+      "/structured/article/sto_title.html",
+      "/structured/article/Content_type.html",
+      "/structured/innovation/Artifactual_complexity.html",
+      "/structured/innovation/bio_econ.html",
+      "/structured/innovation/Commissioner.html",
+      "/structured/innovation/Corporate_group.html",
       "/structured/entity/country.html",
-      "/structured/entity/Science_spin-off.html",
+      "/structured/innovation/Description_in_Swedish.html",
+      "/structured/innovation/in_collaboration.html",
+      "/structured/innovation/Developmental_complexity.html",
       "/structured/entity/id.html",
-      "/structured/entity/common_name.html",
-      "/structured/entity/type.html"
-    ]
-  },
-  {
-    "listing": "/structured/origin.html",
-    "items": [
+      "/structured/innovation/External_financing_received.html",
+      "/structured/innovation/Firm_founded_for_development_or_commercialization.html",
+      "/structured/innovation/Firm_only_produces_the_innovation.html",
+      "/structured/innovation_article/pk_record.html",
       "/structured/innovation/id.html",
-      "/structured/origin/origin.html"
+      "/structured/innovation/status.html",
+      "/structured/innovation_article/id.html",
+      "/structured/innovation_entity/id.html",
+      "/structured/innovation/Innovation_name_in_English.html",
+      "/structured/innovation/Innovation_name_in_Swedish.html",
+      "/structured/article/Issue.html",
+      "/structured/article/Journal_or_magazine.html",
+      "/structured/literal_entity/name.html",
+      "/structured/innovation/Location.html",
+      "/structured/name/variant_name.html",
+      "/structured/article/sto_notes_for_data_users.html",
+      "/structured/innovation/Novelty_from_firm_perspective.html",
+      "/structured/innovation/Novelty_from_market_perspective.html",
+      "/structured/orgnr/orgnr.html",
+      "/structured/origin/origin.html",
+      "/structured/article/Pages.html",
+      "/structured/innovation/patented.html",
+      "/structured/entity/type.html",
+      "/structured/reservoir/Previously_developing_firms.html",
+      "/structured/innovation/Product_code.html",
+      "/structured/innovation/Public_technology_program's_name.html",
+      "/structured/innovation/Public_technology_program_involved.html",
+      "/structured/innovation_entity/subtype.html",
+      "/structured/innovation_entity/type.html",
+      "/structured/entity/common_name.html",
+      "/structured/entity/Science_spin-off.html",
+      "/structured/literal_entity/spin_type.html",
+      "/structured/innovation/Start_year_of_development.html",
+      "/structured/tech_know/tech_know.html",
+      "/structured/use_sector/sector.html",
+      "/structured/article/volume.html",
+      "/structured/article/sto_source_date_or_period__text.html",
+      "/structured/innovation/Year_of_commercialization.html",
+      "/structured/innovation/Year_of_first_presentation.html",
+      "/structured/innovation/Year_of_first_prototype.html",
+      "/structured/innovation/a_patent_application_exists.html",
+      "/structured/innovation/export_has_started.html",
+      "/structured/innovation/firm_applying_for_patent.html",
+      "/structured/name/id.html",
+      "/structured/innovation/patent_granted.html",
+      "/structured/innovation/start_year_of_export.html"
     ]
   },
   {
-    "listing": "/structured/innovation/Artifactual_complexity.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/innovation/Product_code.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/innovation/status.html",
+    "listing": "/structured/use_sector/sector.html",
     "items": []
   },
   {
@@ -41,66 +95,15 @@
     ]
   },
   {
-    "listing": "/structured/innovation_article.html",
-    "items": [
-      "/structured/article/id.html",
-      "/structured/innovation/id.html"
-    ]
-  },
-  {
     "listing": "/structured/tech_know/tech_know.html",
     "items": []
   },
   {
-    "listing": "/structured/exploiter.html",
+    "listing": "/structured/orgnr.html",
     "items": [
-      "/structured/innovation/id.html",
-      "/structured/literal_entity/name.html"
-    ]
-  },
-  {
-    "listing": "/structured/innovation_entity/subtype.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/innovation_entity.html",
-    "items": [
-      "/structured/innovation_entity/id.html",
       "/structured/innovation/id.html",
       "/structured/entity/id.html",
-      "/structured/innovation_entity/type.html",
-      "/structured/innovation_entity/subtype.html"
-    ]
-  },
-  {
-    "listing": "/structured/spinoff.html",
-    "items": [
-      "/structured/innovation/id.html",
-      "/structured/literal_entity/spin_type.html",
-      "/structured/literal_entity/name.html"
-    ]
-  },
-  {
-    "listing": "/structured/entity/Science_spin-off.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/entity/country.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/use_sector/sector.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/innovation_entity/type.html",
-    "items": []
-  },
-  {
-    "listing": "/structured/use_sector.html",
-    "items": [
-      "/structured/innovation/id.html",
-      "/structured/use_sector/sector.html"
+      "/structured/orgnr/orgnr.html"
     ]
   },
   {
@@ -111,15 +114,57 @@
     ]
   },
   {
-    "listing": "/structured/innovation/Developmental_complexity.html",
+    "listing": "/structured/entity/country.html",
     "items": []
   },
   {
-    "listing": "/structured/innovation/Novelty_from_firm_perspective.html",
+    "listing": "/structured/literal_entity/spin_type.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/article/Content_type.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/innovation_entity/type.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/origin.html",
+    "items": [
+      "/structured/innovation/id.html",
+      "/structured/origin/origin.html"
+    ]
+  },
+  {
+    "listing": "/structured/innovation/Product_code.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/innovation/status.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/innovation/Artifactual_complexity.html",
     "items": []
   },
   {
     "listing": "/structured/innovation/Novelty_from_market_perspective.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/innovation/Developmental_complexity.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/innovation_article.html",
+    "items": [
+      "/structured/article/id.html",
+      "/structured/innovation/id.html"
+    ]
+  },
+  {
+    "listing": "/structured/innovation/Novelty_from_firm_perspective.html",
     "items": []
   },
   {
@@ -159,12 +204,56 @@
       "/structured/innovation/Commissioner.html",
       "/structured/innovation/External_financing_received.html",
       "/structured/innovation/Corporate_group.html",
-      "/structured/innovation/Location.html"
+      "/structured/innovation/Location.html",
+      "/structured/innovation/bio_econ.html"
+    ]
+  },
+  {
+    "listing": "/structured/exploiter.html",
+    "items": [
+      "/structured/innovation/id.html",
+      "/structured/literal_entity/name.html"
+    ]
+  },
+  {
+    "listing": "/structured/innovation_entity/subtype.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/entity/Science_spin-off.html",
+    "items": []
+  },
+  {
+    "listing": "/structured/spinoff.html",
+    "items": [
+      "/structured/innovation/id.html",
+      "/structured/literal_entity/spin_type.html",
+      "/structured/literal_entity/name.html"
     ]
   },
   {
     "listing": "/structured/origin/origin.html",
     "items": []
+  },
+  {
+    "listing": "/structured/entity.html",
+    "items": [
+      "/structured/entity/country.html",
+      "/structured/entity/Science_spin-off.html",
+      "/structured/entity/id.html",
+      "/structured/entity/common_name.html",
+      "/structured/entity/type.html"
+    ]
+  },
+  {
+    "listing": "/structured/innovation_entity.html",
+    "items": [
+      "/structured/innovation_entity/id.html",
+      "/structured/innovation/id.html",
+      "/structured/entity/id.html",
+      "/structured/innovation_entity/type.html",
+      "/structured/innovation_entity/subtype.html"
+    ]
   },
   {
     "listing": "/structured/article.html",
@@ -182,87 +271,10 @@
     ]
   },
   {
-    "listing": "/structured/literal_entity/spin_type.html",
-    "items": []
-  },
-  {
-    "listing": "/codebook.html",
+    "listing": "/structured/use_sector.html",
     "items": [
-      "/structured/article.html",
-      "/structured/entity.html",
-      "/structured/exploiter.html",
-      "/structured/innovation_article.html",
-      "/structured/innovation_entity.html",
-      "/structured/origin.html",
-      "/structured/spinoff.html",
-      "/structured/tech_know.html",
-      "/structured/use_sector.html",
-      "/structured/name_variant.html",
-      "/structured/innovation.html",
-      "/structured/innovation/Additional_info_if_Origin__2a_Official_regulation,_legislation_and_standards..html",
-      "/structured/innovation/Additional_information_if_Origin__1a_New_scientific_discovery.html",
-      "/structured/innovation/Additional_information_if_Origin__1b_New_technologies_or_materials.html",
-      "/structured/innovation/Additional_information_if_Origin__20_Other.html",
-      "/structured/innovation/Additional_information_if_Origin__5b_Solution_for_a_problem.html",
-      "/structured/innovation/Additional_information_if_Origin__7_Performance.html",
-      "/structured/article/Annex_or_supplement.html",
-      "/structured/article/id.html",
-      "/structured/innovation_article/article.html",
-      "/structured/article/sto_title.html",
-      "/structured/article/Content_type.html",
-      "/structured/innovation/Artifactual_complexity.html",
-      "/structured/innovation/Commissioner.html",
-      "/structured/innovation/Corporate_group.html",
-      "/structured/entity/country.html",
-      "/structured/innovation/Description_in_Swedish.html",
-      "/structured/innovation/in_collaboration.html",
-      "/structured/innovation/Developmental_complexity.html",
-      "/structured/entity/id.html",
-      "/structured/innovation/External_financing_received.html",
-      "/structured/innovation/Firm_founded_for_development_or_commercialization.html",
-      "/structured/innovation/Firm_only_produces_the_innovation.html",
-      "/structured/innovation_article/pk_record.html",
       "/structured/innovation/id.html",
-      "/structured/innovation/status.html",
-      "/structured/innovation_article/id.html",
-      "/structured/innovation_entity/id.html",
-      "/structured/innovation/Innovation_name_in_English.html",
-      "/structured/innovation/Innovation_name_in_Swedish.html",
-      "/structured/article/Issue.html",
-      "/structured/article/Journal_or_magazine.html",
-      "/structured/literal_entity/name.html",
-      "/structured/innovation/Location.html",
-      "/structured/name/variant_name.html",
-      "/structured/article/sto_notes_for_data_users.html",
-      "/structured/innovation/Novelty_from_firm_perspective.html",
-      "/structured/innovation/Novelty_from_market_perspective.html",
-      "/structured/origin/origin.html",
-      "/structured/article/Pages.html",
-      "/structured/innovation/patented.html",
-      "/structured/entity/type.html",
-      "/structured/reservoir/Previously_developing_firms.html",
-      "/structured/innovation/Product_code.html",
-      "/structured/innovation/Public_technology_program's_name.html",
-      "/structured/innovation/Public_technology_program_involved.html",
-      "/structured/innovation_entity/subtype.html",
-      "/structured/innovation_entity/type.html",
-      "/structured/entity/common_name.html",
-      "/structured/entity/Science_spin-off.html",
-      "/structured/literal_entity/spin_type.html",
-      "/structured/innovation/Start_year_of_development.html",
-      "/structured/tech_know/tech_know.html",
-      "/structured/use_sector/sector.html",
-      "/structured/article/volume.html",
-      "/structured/article/sto_source_date_or_period__text.html",
-      "/structured/innovation/Year_of_commercialization.html",
-      "/structured/innovation/Year_of_first_presentation.html",
-      "/structured/innovation/Year_of_first_prototype.html",
-      "/structured/innovation/a_patent_application_exists.html",
-      "/structured/innovation/export_has_started.html",
-      "/structured/innovation/firm_applying_for_patent.html",
-      "/structured/name/id.html",
-      "/structured/innovation/patent_granted.html",
-      "/structured/innovation/start_year_of_export.html"
+      "/structured/use_sector/sector.html"
     ]
   }
 ]
